@@ -1,0 +1,125 @@
+{
+  "AGESA": [
+    {
+      "value": "UFRS",
+      "display": "Konsolide Olmayan UFRS",
+      "selected": false
+    },
+    {
+      "value": "UFRS_K",
+      "display": "Konsolide UFRS",
+      "selected": true
+    }
+  ],
+  "AKGRT": [
+    {
+      "value": "UFRS",
+      "display": "Konsolide Olmayan UFRS",
+      "selected": false
+    },
+    {
+      "value": "UFRS_K",
+      "display": "Konsolide UFRS",
+      "selected": true
+    }
+  ],
+  "ANHYT": [
+    {
+      "value": "UFRS",
+      "display": "Konsolide Olmayan UFRS",
+      "selected": false
+    },
+    {
+      "value": "UFRS_K",
+      "display": "Konsolide UFRS",
+      "selected": true
+    }
+  ],
+  "ANSGR": [
+    {
+      "value": "UFRS",
+      "display": "Konsolide Olmayan UFRS",
+      "selected": false
+    },
+    {
+      "value": "UFRS_K",
+      "display": "Konsolide UFRS",
+      "selected": true
+    }
+  ],
+  "BRKVY": [
+    {
+      "value": "UFRS_B",
+      "display": "UFRS: DO&CO K_Finansalları",
+      "selected": true
+    }
+  ],
+  "DOCO": [
+    {
+      "value": "UFRS_A",
+      "display": "UFRS: DO&CO Finansalları",
+      "selected": true
+    }
+  ],
+  "DSTKF": [
+    {
+      "value": "XI_29K",
+      "display": "Seri XI No:29 Konsolide",
+      "selected": true
+    }
+  ],
+  "GLCVY": [
+    {
+      "value": "UFRS_B",
+      "display": "UFRS: DO&CO K_Finansalları",
+      "selected": true
+    }
+  ],
+  "ISKUR": [],
+  "MARMR": [],
+  "RAYSG": [
+    {
+      "value": "UFRS",
+      "display": "Konsolide Olmayan UFRS",
+      "selected": true
+    }
+  ],
+  "SMRVA": [
+    {
+      "value": "UFRS_B",
+      "display": "UFRS: DO&CO K_Finansalları",
+      "selected": true
+    }
+  ],
+  "TURSG": [
+    {
+      "value": "UFRS",
+      "display": "Konsolide Olmayan UFRS",
+      "selected": false
+    },
+    {
+      "value": "UFRS_K",
+      "display": "Konsolide UFRS",
+      "selected": true
+    }
+  ],
+  "GARAN": [
+    {
+      "value": "UFRS",
+      "display": "Konsolide Olmayan UFRS",
+      "selected": false
+    },
+    {
+      "value": "UFRS_K",
+      "display": "Konsolide UFRS",
+      "selected": true
+    }
+  ],
+  "THYAO": [
+    {
+      "value": "XI_29",
+      "display": "Seri XI No:29 Konsolide Olmayan",
+      "selected": true
+    }
+  ]
+}

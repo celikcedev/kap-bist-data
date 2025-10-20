@@ -1,0 +1,4149 @@
+{
+  "fetchedAt": "2025-10-19T16:16:00.849Z",
+  "entries": [
+    {
+      "code": "A1CAP",
+      "name": "A1 Capital",
+      "sector": "Aracı Kurumlar",
+      "freeFloatPercent": 31.9,
+      "paidInCapitalMn": 675
+    },
+    {
+      "code": "A1YEN",
+      "name": "Kartal Yenilenebili Enerji",
+      "sector": "Elektrik Üretim",
+      "freeFloatPercent": 69.7,
+      "paidInCapitalMn": 55
+    },
+    {
+      "code": "ACSEL",
+      "name": "Acıselsan Acıpayam Selüloz",
+      "sector": "Kimyasal Ürün",
+      "freeFloatPercent": 48.3,
+      "paidInCapitalMn": 10.7
+    },
+    {
+      "code": "ADEL",
+      "name": "Adel Kalemcilik",
+      "sector": "Kırtasiye",
+      "freeFloatPercent": 27.6,
+      "paidInCapitalMn": 259.9
+    },
+    {
+      "code": "ADESE",
+      "name": "Adese AVM",
+      "sector": "GYO",
+      "freeFloatPercent": 92.4,
+      "paidInCapitalMn": 1008
+    },
+    {
+      "code": "ADGYO",
+      "name": "Adra GYO",
+      "sector": "GYO",
+      "freeFloatPercent": 28,
+      "paidInCapitalMn": 293.7
+    },
+    {
+      "code": "AEFES",
+      "name": "Anadolu Efes",
+      "sector": "Meşrubat / İçecek",
+      "freeFloatPercent": 32.9,
+      "paidInCapitalMn": 5921.1
+    },
+    {
+      "code": "AFYON",
+      "name": "Afyon Çimento",
+      "sector": "Çimento",
+      "freeFloatPercent": 49,
+      "paidInCapitalMn": 400
+    },
+    {
+      "code": "AGESA",
+      "name": "Agesa Hayat ve Emeklilik",
+      "sector": "Sigorta",
+      "freeFloatPercent": 19.9,
+      "paidInCapitalMn": 180
+    },
+    {
+      "code": "AGHOL",
+      "name": "Anadolu Grubu Holding",
+      "sector": "Holdingler",
+      "freeFloatPercent": 37.9,
+      "paidInCapitalMn": 2435.3
+    },
+    {
+      "code": "AGROT",
+      "name": "Agrotech Yüksek Teknoloji",
+      "sector": "Diğer",
+      "freeFloatPercent": 32.1,
+      "paidInCapitalMn": 1200
+    },
+    {
+      "code": "AGYO",
+      "name": "Atakule GYO",
+      "sector": "GYO",
+      "freeFloatPercent": 18.3,
+      "paidInCapitalMn": 263.3
+    },
+    {
+      "code": "AHGAZ",
+      "name": "Ahlatçı Doğalgaz",
+      "sector": "Elektrik - Doğalgaz Dağıtım",
+      "freeFloatPercent": 18.8,
+      "paidInCapitalMn": 2600
+    },
+    {
+      "code": "AHSGY",
+      "name": "Ahes GYO",
+      "sector": "GYO",
+      "freeFloatPercent": 25.6,
+      "paidInCapitalMn": 195
+    },
+    {
+      "code": "AKBNK",
+      "name": "Akbank",
+      "sector": "Bankacılık",
+      "freeFloatPercent": 53.7,
+      "paidInCapitalMn": 5200
+    },
+    {
+      "code": "AKCNS",
+      "name": "Akçansa",
+      "sector": "Çimento",
+      "freeFloatPercent": 20.5,
+      "paidInCapitalMn": 191.4
+    },
+    {
+      "code": "AKENR",
+      "name": "Akenerji",
+      "sector": "Elektrik Üretim",
+      "freeFloatPercent": 25.3,
+      "paidInCapitalMn": 729.2
+    },
+    {
+      "code": "AKFGY",
+      "name": "Akfen GYO",
+      "sector": "GYO",
+      "freeFloatPercent": 44.2,
+      "paidInCapitalMn": 3900
+    },
+    {
+      "code": "AKFIS",
+      "name": "Akfen İnşaat",
+      "sector": "İnşaat- Taahhüt",
+      "freeFloatPercent": 10.5,
+      "paidInCapitalMn": 636.6
+    },
+    {
+      "code": "AKFYE",
+      "name": "Akfen Yenilenebilir Enerji",
+      "sector": "Elektrik Üretim",
+      "freeFloatPercent": 28.4,
+      "paidInCapitalMn": 1197
+    },
+    {
+      "code": "AKGRT",
+      "name": "Aksigorta",
+      "sector": "Sigorta",
+      "freeFloatPercent": 28,
+      "paidInCapitalMn": 1612
+    },
+    {
+      "code": "AKMGY",
+      "name": "Akmerkez GYO",
+      "sector": "GYO",
+      "freeFloatPercent": 9.9,
+      "paidInCapitalMn": 37.3
+    },
+    {
+      "code": "AKSA",
+      "name": "Aksa",
+      "sector": "Endüstriyel Tekstil",
+      "freeFloatPercent": 31.8,
+      "paidInCapitalMn": 3885
+    },
+    {
+      "code": "AKSEN",
+      "name": "Aksa Enerji",
+      "sector": "Elektrik Üretim",
+      "freeFloatPercent": 19,
+      "paidInCapitalMn": 1226.3
+    },
+    {
+      "code": "AKSGY",
+      "name": "Akis GYO",
+      "sector": "GYO",
+      "freeFloatPercent": 53.8,
+      "paidInCapitalMn": 2415
+    },
+    {
+      "code": "AKSUE",
+      "name": "Aksu Enerji",
+      "sector": "Elektrik Üretim",
+      "freeFloatPercent": 83.2,
+      "paidInCapitalMn": 66
+    },
+    {
+      "code": "AKYHO",
+      "name": "Akdeniz Yatırım Holding",
+      "sector": "Holdingler",
+      "freeFloatPercent": 77.6,
+      "paidInCapitalMn": 248.2
+    },
+    {
+      "code": "ALARK",
+      "name": "Alarko Holding",
+      "sector": "Holdingler",
+      "freeFloatPercent": 37.1,
+      "paidInCapitalMn": 435
+    },
+    {
+      "code": "ALBRK",
+      "name": "Albaraka Türk",
+      "sector": "Bankacılık",
+      "freeFloatPercent": 40.3,
+      "paidInCapitalMn": 2500
+    },
+    {
+      "code": "ALCAR",
+      "name": "Alarko Carrier",
+      "sector": "Dayanıklı Tüketim",
+      "freeFloatPercent": 15.9,
+      "paidInCapitalMn": 10.8
+    },
+    {
+      "code": "ALCTL",
+      "name": "Alcatel Teletaş",
+      "sector": "İletişim Cihazları",
+      "freeFloatPercent": 34.9,
+      "paidInCapitalMn": 38.7
+    },
+    {
+      "code": "ALFAS",
+      "name": "Alfa Solar",
+      "sector": "Elektrik Enerji Ürt.Teçh/Tesis Kurulum",
+      "freeFloatPercent": 23,
+      "paidInCapitalMn": 368
+    },
+    {
+      "code": "ALGYO",
+      "name": "Alarko GYO",
+      "sector": "GYO",
+      "freeFloatPercent": 48.7,
+      "paidInCapitalMn": 289.8
+    },
+    {
+      "code": "ALKA",
+      "name": "Alkim Kağıt",
+      "sector": "Kağıt Ürünleri",
+      "freeFloatPercent": 18.9,
+      "paidInCapitalMn": 735
+    },
+    {
+      "code": "ALKIM",
+      "name": "Alkim",
+      "sector": "Kimyasal Ürün",
+      "freeFloatPercent": 46.5,
+      "paidInCapitalMn": 300
+    },
+    {
+      "code": "ALKLC",
+      "name": "Altınkılıç Gıda",
+      "sector": "Gıda",
+      "freeFloatPercent": 35.7,
+      "paidInCapitalMn": 112
+    },
+    {
+      "code": "ALTNY",
+      "name": "Altınay Savunma",
+      "sector": "Savunma",
+      "freeFloatPercent": 36.8,
+      "paidInCapitalMn": 235.3
+    },
+    {
+      "code": "ALVES",
+      "name": "Alves Kablo",
+      "sector": "Kablo",
+      "freeFloatPercent": 44.1,
+      "paidInCapitalMn": 160
+    },
+    {
+      "code": "ANELE",
+      "name": "Anel Elektrik",
+      "sector": "İnşaat Malzemeleri",
+      "freeFloatPercent": 17.7,
+      "paidInCapitalMn": 265
+    },
+    {
+      "code": "ANGEN",
+      "name": "Anatolia Biyoteknoloji",
+      "sector": "Sağlık ve İlaç",
+      "freeFloatPercent": 35.4,
+      "paidInCapitalMn": 220
+    },
+    {
+      "code": "ANHYT",
+      "name": "Anadolu Hayat Emeklilik A.Ş.",
+      "sector": "Sigorta",
+      "freeFloatPercent": 15.1,
+      "paidInCapitalMn": 430
+    },
+    {
+      "code": "ANSGR",
+      "name": "Anadolu Sigorta",
+      "sector": "Sigorta",
+      "freeFloatPercent": 34.7,
+      "paidInCapitalMn": 2000
+    },
+    {
+      "code": "ARASE",
+      "name": "Doğu Aras Enerji",
+      "sector": "Elektrik - Doğalgaz Dağıtım",
+      "freeFloatPercent": 17.5,
+      "paidInCapitalMn": 250
+    },
+    {
+      "code": "ARCLK",
+      "name": "Arçelik",
+      "sector": "Dayanıklı Tüketim",
+      "freeFloatPercent": 24.7,
+      "paidInCapitalMn": 675.7
+    },
+    {
+      "code": "ARDYZ",
+      "name": "ARD Grup Bilişim",
+      "sector": "Teknoloji",
+      "freeFloatPercent": 74.8,
+      "paidInCapitalMn": 170
+    },
+    {
+      "code": "ARENA",
+      "name": "Arena Bilgisayar",
+      "sector": "Bilgisayar Toptancılığı",
+      "freeFloatPercent": 50.3,
+      "paidInCapitalMn": 100
+    },
+    {
+      "code": "ARMGD",
+      "name": "Armada Gıda",
+      "sector": "Gıda",
+      "freeFloatPercent": 16.9,
+      "paidInCapitalMn": 264
+    },
+    {
+      "code": "ARSAN",
+      "name": "Arsan Tekstil",
+      "sector": "Tekstil Entegre",
+      "freeFloatPercent": 35.6,
+      "paidInCapitalMn": 1762
+    },
+    {
+      "code": "ARTMS",
+      "name": "Artemis Halı",
+      "sector": "Tekstil Entegre",
+      "freeFloatPercent": 28.3,
+      "paidInCapitalMn": 70
+    },
+    {
+      "code": "ARZUM",
+      "name": "Arzum Ev Aletleri",
+      "sector": "Dayanıklı Tüketim",
+      "freeFloatPercent": 49,
+      "paidInCapitalMn": 600
+    },
+    {
+      "code": "ASELS",
+      "name": "Aselsan",
+      "sector": "Savunma",
+      "freeFloatPercent": 25.8,
+      "paidInCapitalMn": 4560
+    },
+    {
+      "code": "ASGYO",
+      "name": "Asce GYO",
+      "sector": "GYO",
+      "freeFloatPercent": 23.4,
+      "paidInCapitalMn": 659
+    },
+    {
+      "code": "ASTOR",
+      "name": "Astor Enerji",
+      "sector": "Elektrik Enerji Ürt.Teçh/Tesis Kurulum",
+      "freeFloatPercent": 36.7,
+      "paidInCapitalMn": 998
+    },
+    {
+      "code": "ASUZU",
+      "name": "Anadolu Isuzu",
+      "sector": "Otomotiv",
+      "freeFloatPercent": 14.4,
+      "paidInCapitalMn": 252
+    },
+    {
+      "code": "ATAGY",
+      "name": "Ata GYO",
+      "sector": "GYO",
+      "freeFloatPercent": 59.4,
+      "paidInCapitalMn": 47.5
+    },
+    {
+      "code": "ATAKP",
+      "name": "Atakey Patates",
+      "sector": "Gıda",
+      "freeFloatPercent": 20.3,
+      "paidInCapitalMn": 138.8
+    },
+    {
+      "code": "ATATP",
+      "name": "ATP Bilgisayar",
+      "sector": "Teknoloji",
+      "freeFloatPercent": 19.5,
+      "paidInCapitalMn": 93.8
+    },
+    {
+      "code": "ATEKS",
+      "name": "Akın Tekstil",
+      "sector": "Tekstil Entegre",
+      "freeFloatPercent": 21.4,
+      "paidInCapitalMn": 25.2
+    },
+    {
+      "code": "ATLAS",
+      "name": "Atlas YO",
+      "sector": "Yatırım Ortaklıkları",
+      "freeFloatPercent": 99.9,
+      "paidInCapitalMn": 60
+    },
+    {
+      "code": "ATSYH",
+      "name": "Atlantis YO",
+      "sector": "Holdingler",
+      "freeFloatPercent": 99.7,
+      "paidInCapitalMn": 8
+    },
+    {
+      "code": "AVGYO",
+      "name": "Avrasya YO",
+      "sector": "GYO",
+      "freeFloatPercent": 52.1,
+      "paidInCapitalMn": 111.6
+    },
+    {
+      "code": "AVHOL",
+      "name": "Avrupa Yatırım Holding",
+      "sector": "Holdingler",
+      "freeFloatPercent": 63.3,
+      "paidInCapitalMn": 37.3
+    },
+    {
+      "code": "AVOD",
+      "name": "Avod Kurutulmuş Gıda",
+      "sector": "Gıda",
+      "freeFloatPercent": 92.8,
+      "paidInCapitalMn": 270
+    },
+    {
+      "code": "AVPGY",
+      "name": "Avrupakent GYO",
+      "sector": "GYO",
+      "freeFloatPercent": 22.1,
+      "paidInCapitalMn": 400
+    },
+    {
+      "code": "AVTUR",
+      "name": "Avrasya Petrol&Turistik Tesis",
+      "sector": "Turizm",
+      "freeFloatPercent": 69.3,
+      "paidInCapitalMn": 45
+    },
+    {
+      "code": "AYCES",
+      "name": "Altınyunus Çesme",
+      "sector": "Turizm",
+      "freeFloatPercent": 7.6,
+      "paidInCapitalMn": 25
+    },
+    {
+      "code": "AYDEM",
+      "name": "Aydem Enerji",
+      "sector": "Elektrik Üretim",
+      "freeFloatPercent": 18.4,
+      "paidInCapitalMn": 705
+    },
+    {
+      "code": "AYEN",
+      "name": "Ayen Enerji",
+      "sector": "Elektrik Üretim",
+      "freeFloatPercent": 16.9,
+      "paidInCapitalMn": 277.5
+    },
+    {
+      "code": "AYES",
+      "name": "Ayes Çelik Hasır & Çit",
+      "sector": "İnşaat Malzemeleri",
+      "freeFloatPercent": 56.5,
+      "paidInCapitalMn": 150
+    },
+    {
+      "code": "AYGAZ",
+      "name": "Aygaz",
+      "sector": "Petrol",
+      "freeFloatPercent": 24.2,
+      "paidInCapitalMn": 219.8
+    },
+    {
+      "code": "AZTEK",
+      "name": "Aztek Teknoloji",
+      "sector": "Teknoloji",
+      "freeFloatPercent": 25.5,
+      "paidInCapitalMn": 100
+    },
+    {
+      "code": "BAGFS",
+      "name": "Bandırma Gübre Fabrikaları A.Ş",
+      "sector": "Tarım Kimyasalları",
+      "freeFloatPercent": 61.2,
+      "paidInCapitalMn": 135
+    },
+    {
+      "code": "BAHKM",
+      "name": "Bahadır Kimya",
+      "sector": "Kimyasal Ürün",
+      "freeFloatPercent": 34.4,
+      "paidInCapitalMn": 55
+    },
+    {
+      "code": "BAKAB",
+      "name": "Bak Ambalaj",
+      "sector": "Kağıt Ürünleri",
+      "freeFloatPercent": 17.5,
+      "paidInCapitalMn": 72
+    },
+    {
+      "code": "BALAT",
+      "name": "Balatacılar Balatacılık",
+      "sector": "Otomotiv Parçası",
+      "freeFloatPercent": 97.2,
+      "paidInCapitalMn": 13.9
+    },
+    {
+      "code": "BALSU",
+      "name": "Balsu Gıda",
+      "sector": "Gıda",
+      "freeFloatPercent": 25,
+      "paidInCapitalMn": 1112
+    },
+    {
+      "code": "BANVT",
+      "name": "Banvit",
+      "sector": "Hayvancılık",
+      "freeFloatPercent": 8.3,
+      "paidInCapitalMn": 100
+    },
+    {
+      "code": "BARMA",
+      "name": "Barem Ambalaj",
+      "sector": "Kağıt Ürünleri",
+      "freeFloatPercent": 20,
+      "paidInCapitalMn": 262.5
+    },
+    {
+      "code": "BASCM",
+      "name": "Baştaş Başkent Çimento Sanayi",
+      "sector": "Çimento",
+      "freeFloatPercent": 7.4,
+      "paidInCapitalMn": 660
+    },
+    {
+      "code": "BASGZ",
+      "name": "Başkent Doğalgaz",
+      "sector": "Elektrik - Doğalgaz Dağıtım",
+      "freeFloatPercent": 15.3,
+      "paidInCapitalMn": 700
+    },
+    {
+      "code": "BAYRK",
+      "name": "Bayrak EBT Taban",
+      "sector": "Tekstil Entegre",
+      "freeFloatPercent": 61.4,
+      "paidInCapitalMn": 56.5
+    },
+    {
+      "code": "BEGYO",
+      "name": "Batı Ege GYO",
+      "sector": "GYO",
+      "freeFloatPercent": 34.4,
+      "paidInCapitalMn": 815
+    },
+    {
+      "code": "BERA",
+      "name": "Bera Holding",
+      "sector": "Holdingler",
+      "freeFloatPercent": 67.2,
+      "paidInCapitalMn": 683.2
+    },
+    {
+      "code": "BESLR",
+      "name": "Besler Gıda",
+      "sector": "Gıda",
+      "freeFloatPercent": 28,
+      "paidInCapitalMn": 662
+    },
+    {
+      "code": "BEYAZ",
+      "name": "Beyaz Filo",
+      "sector": "Ulaştırma-Lojistik",
+      "freeFloatPercent": 24.5,
+      "paidInCapitalMn": 99.7
+    },
+    {
+      "code": "BFREN",
+      "name": "Bosch Fren",
+      "sector": "Otomotiv Parçası",
+      "freeFloatPercent": 15.4,
+      "paidInCapitalMn": 122.5
+    },
+    {
+      "code": "BIENY",
+      "name": "Bien Yapı",
+      "sector": "Seramik",
+      "freeFloatPercent": 23,
+      "paidInCapitalMn": 361
+    },
+    {
+      "code": "BIGCH",
+      "name": "BigChefs",
+      "sector": "Gıda",
+      "freeFloatPercent": 37.5,
+      "paidInCapitalMn": 107
+    },
+    {
+      "code": "BIGEN",
+      "name": "Birleşim Grup Enerji",
+      "sector": "Elektrik Üretim",
+      "freeFloatPercent": 20,
+      "paidInCapitalMn": 577
+    },
+    {
+      "code": "BIMAS",
+      "name": "Bim Birleşik Mağazalar A.Ş",
+      "sector": "Perakande - Ticaret",
+      "freeFloatPercent": 68.2,
+      "paidInCapitalMn": 600
+    },
+    {
+      "code": "BINBN",
+      "name": "BinBin",
+      "sector": "Ulaştırma-Lojistik",
+      "freeFloatPercent": 15.2,
+      "paidInCapitalMn": 112
+    },
+    {
+      "code": "BINHO",
+      "name": "1000 Yatırımlar",
+      "sector": "Holdingler",
+      "freeFloatPercent": 37.9,
+      "paidInCapitalMn": 1290.2
+    },
+    {
+      "code": "BIOEN",
+      "name": "Biotrend Enerji",
+      "sector": "Elektrik Üretim",
+      "freeFloatPercent": 39.6,
+      "paidInCapitalMn": 500
+    },
+    {
+      "code": "BIZIM",
+      "name": "Bizim Toptan",
+      "sector": "Perakande - Ticaret",
+      "freeFloatPercent": 32.8,
+      "paidInCapitalMn": 80.5
+    },
+    {
+      "code": "BJKAS",
+      "name": "Beşiktaş",
+      "sector": "Spor",
+      "freeFloatPercent": 29.9,
+      "paidInCapitalMn": 4364.6
+    },
+    {
+      "code": "BLCYT",
+      "name": "Bilici Yatırım",
+      "sector": "Tekstil Entegre",
+      "freeFloatPercent": 49.1,
+      "paidInCapitalMn": 100
+    },
+    {
+      "code": "BLUME",
+      "name": "Blume Metal Kimya",
+      "sector": "Turizm",
+      "freeFloatPercent": 71.2,
+      "paidInCapitalMn": 174.7
+    },
+    {
+      "code": "BMSCH",
+      "name": "BMS Çelik Hasır",
+      "sector": "Demir-Çelik Döküm",
+      "freeFloatPercent": 63.1,
+      "paidInCapitalMn": 100
+    },
+    {
+      "code": "BMSTL",
+      "name": "BMS Birleşik Metal",
+      "sector": "Demir-Çelik Döküm",
+      "freeFloatPercent": 49.8,
+      "paidInCapitalMn": 150
+    },
+    {
+      "code": "BNTAS",
+      "name": "Bantaş Bandırma Ambalaj",
+      "sector": "Kimyasal Ürün",
+      "freeFloatPercent": 58.8,
+      "paidInCapitalMn": 241.9
+    },
+    {
+      "code": "BOBET",
+      "name": "Boğaziçi Beton",
+      "sector": "Çimento",
+      "freeFloatPercent": 30,
+      "paidInCapitalMn": 380
+    },
+    {
+      "code": "BORLS",
+      "name": "Borlease Otomotiv",
+      "sector": "Ulaştırma-Lojistik",
+      "freeFloatPercent": 33.4,
+      "paidInCapitalMn": 700
+    },
+    {
+      "code": "BORSK",
+      "name": "Bor Şeker",
+      "sector": "Gıda",
+      "freeFloatPercent": 29.2,
+      "paidInCapitalMn": 240
+    },
+    {
+      "code": "BOSSA",
+      "name": "Bossa",
+      "sector": "Tekstil Entegre",
+      "freeFloatPercent": 12.2,
+      "paidInCapitalMn": 1300
+    },
+    {
+      "code": "BRISA",
+      "name": "Brisa",
+      "sector": "Otomotiv Lastiği",
+      "freeFloatPercent": 10.2,
+      "paidInCapitalMn": 305.1
+    },
+    {
+      "code": "BRKO",
+      "name": "Birko Mensucat",
+      "sector": "Tekstil Entegre",
+      "freeFloatPercent": 84.1,
+      "paidInCapitalMn": 140
+    },
+    {
+      "code": "BRKSN",
+      "name": "Berkosan Yalıtım",
+      "sector": "İnşaat Malzemeleri",
+      "freeFloatPercent": 66.8,
+      "paidInCapitalMn": 93.6
+    },
+    {
+      "code": "BRKVY",
+      "name": "Birikim Varlık",
+      "sector": "Varlık Yönetim",
+      "freeFloatPercent": 24.3,
+      "paidInCapitalMn": 56
+    },
+    {
+      "code": "BRLSM",
+      "name": "Birlesim Mühendislik",
+      "sector": "İnşaat Malzemeleri",
+      "freeFloatPercent": 48.2,
+      "paidInCapitalMn": 224
+    },
+    {
+      "code": "BRMEN",
+      "name": "Birlik Mensucat",
+      "sector": "Tekstil Entegre",
+      "freeFloatPercent": 65.3,
+      "paidInCapitalMn": 44.6
+    },
+    {
+      "code": "BRSAN",
+      "name": "Borusan Birleşik Boru Fab.",
+      "sector": "Demir-Çelik Temel",
+      "freeFloatPercent": 19.6,
+      "paidInCapitalMn": 141.8
+    },
+    {
+      "code": "BRYAT",
+      "name": "Borusan Yatırım",
+      "sector": "Holdingler",
+      "freeFloatPercent": 15.3,
+      "paidInCapitalMn": 28.1
+    },
+    {
+      "code": "BSOKE",
+      "name": "Batı Söke Çimento",
+      "sector": "Çimento",
+      "freeFloatPercent": 25.1,
+      "paidInCapitalMn": 1600
+    },
+    {
+      "code": "BTCIM",
+      "name": "Batıçim",
+      "sector": "Çimento",
+      "freeFloatPercent": 60.5,
+      "paidInCapitalMn": 5580
+    },
+    {
+      "code": "BUCIM",
+      "name": "Bursa Çimento",
+      "sector": "Çimento",
+      "freeFloatPercent": 36.1,
+      "paidInCapitalMn": 1500
+    },
+    {
+      "code": "BULGS",
+      "name": "Bulls GSYO",
+      "sector": "Yatırım Ortaklıkları",
+      "freeFloatPercent": 27,
+      "paidInCapitalMn": 268
+    },
+    {
+      "code": "BURCE",
+      "name": "Burçelik",
+      "sector": "Demir-Çelik Döküm",
+      "freeFloatPercent": 52.7,
+      "paidInCapitalMn": 84.2
+    },
+    {
+      "code": "BURVA",
+      "name": "Burçelik Vana Sanayii",
+      "sector": "İnşaat Malzemeleri",
+      "freeFloatPercent": 59.7,
+      "paidInCapitalMn": 7.3
+    },
+    {
+      "code": "BVSAN",
+      "name": "Bülbüloğlu Vinç",
+      "sector": "İnşaat Malzemeleri",
+      "freeFloatPercent": 33.6,
+      "paidInCapitalMn": 37.6
+    },
+    {
+      "code": "BYDNR",
+      "name": "Baydöner",
+      "sector": "Gıda",
+      "freeFloatPercent": 21.4,
+      "paidInCapitalMn": 84
+    },
+    {
+      "code": "CANTE",
+      "name": "Çan2 Termik A.S",
+      "sector": "Elektrik Üretim",
+      "freeFloatPercent": 70.7,
+      "paidInCapitalMn": 7000
+    },
+    {
+      "code": "CASA",
+      "name": "Casa Emtia Petrol Kim.Tür.AŞ",
+      "sector": "Perakande - Ticaret",
+      "freeFloatPercent": 97.6,
+      "paidInCapitalMn": 4.9
+    },
+    {
+      "code": "CATES",
+      "name": "Çates Elektrik",
+      "sector": "Elektrik Üretim",
+      "freeFloatPercent": 20,
+      "paidInCapitalMn": 165.2
+    },
+    {
+      "code": "CCOLA",
+      "name": "Coca-Cola İçecek A.Ş",
+      "sector": "Meşrubat / İçecek",
+      "freeFloatPercent": 29.1,
+      "paidInCapitalMn": 2798.1
+    },
+    {
+      "code": "CELHA",
+      "name": "Çelik Halat",
+      "sector": "Demir-Çelik Temel",
+      "freeFloatPercent": 24.7,
+      "paidInCapitalMn": 300
+    },
+    {
+      "code": "CEMAS",
+      "name": "Çemaş Döküm",
+      "sector": "Demir-Çelik Döküm",
+      "freeFloatPercent": 85.7,
+      "paidInCapitalMn": 791
+    },
+    {
+      "code": "CEMTS",
+      "name": "Çemtas",
+      "sector": "Demir-Çelik Temel",
+      "freeFloatPercent": 39.9,
+      "paidInCapitalMn": 500
+    },
+    {
+      "code": "CEMZY",
+      "name": "Cem Zeytin",
+      "sector": "Gıda",
+      "freeFloatPercent": 30.9,
+      "paidInCapitalMn": 402
+    },
+    {
+      "code": "CEOEM",
+      "name": "CEO Event Medya",
+      "sector": "Medya",
+      "freeFloatPercent": 50.6,
+      "paidInCapitalMn": 44
+    },
+    {
+      "code": "CGCAM",
+      "name": "Çağdaş Cam",
+      "sector": "Cam",
+      "freeFloatPercent": 25,
+      "paidInCapitalMn": 168
+    },
+    {
+      "code": "CIMSA",
+      "name": "Çimsa",
+      "sector": "Çimento",
+      "freeFloatPercent": 45,
+      "paidInCapitalMn": 945.6
+    },
+    {
+      "code": "CLEBI",
+      "name": "Çelebi",
+      "sector": "Havayolları ve Hizm.",
+      "freeFloatPercent": 10,
+      "paidInCapitalMn": 24.3
+    },
+    {
+      "code": "CMBTN",
+      "name": "Çimbeton",
+      "sector": "Çimento",
+      "freeFloatPercent": 49.6,
+      "paidInCapitalMn": 1.8
+    },
+    {
+      "code": "CMENT",
+      "name": "Çimentaş",
+      "sector": "Çimento",
+      "freeFloatPercent": 2.7,
+      "paidInCapitalMn": 87.1
+    },
+    {
+      "code": "CONSE",
+      "name": "Consus Enerji",
+      "sector": "Elektrik Üretim",
+      "freeFloatPercent": 48.8,
+      "paidInCapitalMn": 771
+    },
+    {
+      "code": "COSMO",
+      "name": "Cosmos Yatırım Holding",
+      "sector": "Holdingler",
+      "freeFloatPercent": 67.8,
+      "paidInCapitalMn": 6.5
+    },
+    {
+      "code": "CRDFA",
+      "name": "Creditwest Faktoring",
+      "sector": "Fin.Kiralama ve Faktoring",
+      "freeFloatPercent": 70.5,
+      "paidInCapitalMn": 100
+    },
+    {
+      "code": "CRFSA",
+      "name": "Carrefoursa",
+      "sector": "Perakande - Ticaret",
+      "freeFloatPercent": 10.7,
+      "paidInCapitalMn": 127.8
+    },
+    {
+      "code": "CUSAN",
+      "name": "Çuhadaroğlu Metal",
+      "sector": "Demir-Çelik Döküm",
+      "freeFloatPercent": 25.9,
+      "paidInCapitalMn": 71.3
+    },
+    {
+      "code": "CVKMD",
+      "name": "Cvk Maden",
+      "sector": "Madencilik",
+      "freeFloatPercent": 25.8,
+      "paidInCapitalMn": 1400
+    },
+    {
+      "code": "CWENE",
+      "name": "Cw Enerji",
+      "sector": "Elektrik Enerji Ürt.Teçh/Tesis Kurulum",
+      "freeFloatPercent": 35.7,
+      "paidInCapitalMn": 1000
+    },
+    {
+      "code": "DAGI",
+      "name": "Dagi Giyim",
+      "sector": "Tekstil Entegre",
+      "freeFloatPercent": 43.8,
+      "paidInCapitalMn": 400
+    },
+    {
+      "code": "DAPGM",
+      "name": "Dap Gayrimenkul",
+      "sector": "GYO",
+      "freeFloatPercent": 27.5,
+      "paidInCapitalMn": 2650
+    },
+    {
+      "code": "DARDL",
+      "name": "Dardanel",
+      "sector": "Gıda",
+      "freeFloatPercent": 31.4,
+      "paidInCapitalMn": 2344.4
+    },
+    {
+      "code": "DCTTR",
+      "name": "Dct Trading",
+      "sector": "Diğer",
+      "freeFloatPercent": 37.5,
+      "paidInCapitalMn": 130
+    },
+    {
+      "code": "DENGE",
+      "name": "Denge Holding",
+      "sector": "Holdingler",
+      "freeFloatPercent": 87.4,
+      "paidInCapitalMn": 600
+    },
+    {
+      "code": "DERHL",
+      "name": "Derlüks Yatırım Holding",
+      "sector": "Deri Giyim",
+      "freeFloatPercent": 59.9,
+      "paidInCapitalMn": 197.3
+    },
+    {
+      "code": "DERIM",
+      "name": "Derimod",
+      "sector": "Deri Giyim",
+      "freeFloatPercent": 27,
+      "paidInCapitalMn": 54
+    },
+    {
+      "code": "DESA",
+      "name": "Desa Deri Sanayii",
+      "sector": "Deri Giyim",
+      "freeFloatPercent": 18,
+      "paidInCapitalMn": 490
+    },
+    {
+      "code": "DESPC",
+      "name": "Despec Bilgisayar",
+      "sector": "Bilgisayar Toptancılığı",
+      "freeFloatPercent": 50.9,
+      "paidInCapitalMn": 23
+    },
+    {
+      "code": "DEVA",
+      "name": "Deva Holding",
+      "sector": "Sağlık ve İlaç",
+      "freeFloatPercent": 17.7,
+      "paidInCapitalMn": 200
+    },
+    {
+      "code": "DGATE",
+      "name": "Datagate",
+      "sector": "Bilgisayar Toptancılığı",
+      "freeFloatPercent": 40.7,
+      "paidInCapitalMn": 30
+    },
+    {
+      "code": "DGGYO",
+      "name": "Doğuş GYO",
+      "sector": "GYO",
+      "freeFloatPercent": 5.6,
+      "paidInCapitalMn": 332
+    },
+    {
+      "code": "DGNMO",
+      "name": "Doğanlar Mobilya",
+      "sector": "Mobilya",
+      "freeFloatPercent": 49.4,
+      "paidInCapitalMn": 350
+    },
+    {
+      "code": "DIRIT",
+      "name": "Diriteks Diriliş Tekstil",
+      "sector": "Tekstil Entegre",
+      "freeFloatPercent": 93.9,
+      "paidInCapitalMn": 10.7
+    },
+    {
+      "code": "DITAS",
+      "name": "Ditaş Doğan",
+      "sector": "Otomotiv Parçası",
+      "freeFloatPercent": 32.6,
+      "paidInCapitalMn": 85
+    },
+    {
+      "code": "DMRGD",
+      "name": "DMR Unlu Mamüller",
+      "sector": "Gıda",
+      "freeFloatPercent": 46.5,
+      "paidInCapitalMn": 185.3
+    },
+    {
+      "code": "DMSAS",
+      "name": "Demisaş",
+      "sector": "Demir-Çelik Döküm",
+      "freeFloatPercent": 52.6,
+      "paidInCapitalMn": 200
+    },
+    {
+      "code": "DNISI",
+      "name": "Dinamik Isı Yalıtım",
+      "sector": "İnşaat Malzemeleri",
+      "freeFloatPercent": 44.3,
+      "paidInCapitalMn": 119.7
+    },
+    {
+      "code": "DOAS",
+      "name": "Doğuş Otomotiv",
+      "sector": "Otomotiv",
+      "freeFloatPercent": 39.5,
+      "paidInCapitalMn": 220
+    },
+    {
+      "code": "DOBUR",
+      "name": "Doğan Burda",
+      "sector": "Medya",
+      "freeFloatPercent": 36.9,
+      "paidInCapitalMn": 19.6
+    },
+    {
+      "code": "DOCO",
+      "name": "DO & CO Aktiengesellschaft",
+      "sector": "Ulaştırma-Lojistik",
+      "freeFloatPercent": 85.6,
+      "paidInCapitalMn": 11
+    },
+    {
+      "code": "DOFER",
+      "name": "Dofer Yapı",
+      "sector": "Demir-Çelik Temel",
+      "freeFloatPercent": 31.2,
+      "paidInCapitalMn": 55.8
+    },
+    {
+      "code": "DOFRB",
+      "name": "Dof Robotik",
+      "sector": "Teknoloji",
+      "freeFloatPercent": 29,
+      "paidInCapitalMn": 155
+    },
+    {
+      "code": "DOGUB",
+      "name": "Doğusan",
+      "sector": "İnşaat Malzemeleri",
+      "freeFloatPercent": 43.8,
+      "paidInCapitalMn": 39
+    },
+    {
+      "code": "DOHOL",
+      "name": "Doğan Holding",
+      "sector": "Holdingler",
+      "freeFloatPercent": 35.7,
+      "paidInCapitalMn": 2617
+    },
+    {
+      "code": "DOKTA",
+      "name": "Döktaş Dökümcülük",
+      "sector": "Otomotiv Parçası",
+      "freeFloatPercent": 9.9,
+      "paidInCapitalMn": 324
+    },
+    {
+      "code": "DSTKF",
+      "name": "Destek Finans Faktoring",
+      "sector": "Fin.Kiralama ve Faktoring",
+      "freeFloatPercent": 24.7,
+      "paidInCapitalMn": 333.3
+    },
+    {
+      "code": "DUNYH",
+      "name": "Dünya Holding",
+      "sector": "Gıda",
+      "freeFloatPercent": 59.1,
+      "paidInCapitalMn": 36.7
+    },
+    {
+      "code": "DURDO",
+      "name": "Duran Doğan Basım",
+      "sector": "Kağıt Ürünleri",
+      "freeFloatPercent": 32.6,
+      "paidInCapitalMn": 500
+    },
+    {
+      "code": "DURKN",
+      "name": "Durukan Şekerleme",
+      "sector": "Gıda",
+      "freeFloatPercent": 32,
+      "paidInCapitalMn": 132.5
+    },
+    {
+      "code": "DYOBY",
+      "name": "DYO Boya",
+      "sector": "Boya",
+      "freeFloatPercent": 25.3,
+      "paidInCapitalMn": 300
+    },
+    {
+      "code": "DZGYO",
+      "name": "Deniz GYO",
+      "sector": "GYO",
+      "freeFloatPercent": 28,
+      "paidInCapitalMn": 400
+    },
+    {
+      "code": "EBEBK",
+      "name": "Ebebek",
+      "sector": "Perakande - Ticaret",
+      "freeFloatPercent": 23.2,
+      "paidInCapitalMn": 160
+    },
+    {
+      "code": "ECILC",
+      "name": "Eczacıbaşı İlaç",
+      "sector": "Sağlık ve İlaç",
+      "freeFloatPercent": 18.7,
+      "paidInCapitalMn": 685.3
+    },
+    {
+      "code": "ECZYT",
+      "name": "Eczacıbaşı Yatırım",
+      "sector": "Holdingler",
+      "freeFloatPercent": 18.3,
+      "paidInCapitalMn": 105
+    },
+    {
+      "code": "EDATA",
+      "name": "E-Data Teknoloji",
+      "sector": "Teknoloji",
+      "freeFloatPercent": 36.1,
+      "paidInCapitalMn": 402.2
+    },
+    {
+      "code": "EDIP",
+      "name": "Edip Gayrimenkul Yat. San.",
+      "sector": "GYO",
+      "freeFloatPercent": 47.8,
+      "paidInCapitalMn": 65
+    },
+    {
+      "code": "EFORC",
+      "name": "Efor Yat. San.",
+      "sector": "Gıda",
+      "freeFloatPercent": 24.8,
+      "paidInCapitalMn": 363
+    },
+    {
+      "code": "EGEEN",
+      "name": "Ege Endüstri",
+      "sector": "Otomotiv Parçası",
+      "freeFloatPercent": 36,
+      "paidInCapitalMn": 3.2
+    },
+    {
+      "code": "EGEGY",
+      "name": "Egeyapı GYO",
+      "sector": "GYO",
+      "freeFloatPercent": 30.6,
+      "paidInCapitalMn": 200
+    },
+    {
+      "code": "EGEPO",
+      "name": "Egepol Hastanesi",
+      "sector": "Sağlık ve İlaç",
+      "freeFloatPercent": 20.2,
+      "paidInCapitalMn": 500
+    },
+    {
+      "code": "EGGUB",
+      "name": "Ege Gübre",
+      "sector": "Tarım Kimyasalları",
+      "freeFloatPercent": 45.5,
+      "paidInCapitalMn": 100
+    },
+    {
+      "code": "EGPRO",
+      "name": "Ege Profil",
+      "sector": "İnşaat Malzemeleri",
+      "freeFloatPercent": 13.1,
+      "paidInCapitalMn": 545
+    },
+    {
+      "code": "EGSER",
+      "name": "Ege Seramik",
+      "sector": "Seramik",
+      "freeFloatPercent": 34.3,
+      "paidInCapitalMn": 720
+    },
+    {
+      "code": "EKGYO",
+      "name": "Emlak Konut GYO",
+      "sector": "GYO",
+      "freeFloatPercent": 48.4,
+      "paidInCapitalMn": 3800
+    },
+    {
+      "code": "EKIZ",
+      "name": "Ekiz Yağ ve Sabun",
+      "sector": "Gıda",
+      "freeFloatPercent": 63.3,
+      "paidInCapitalMn": 9.3
+    },
+    {
+      "code": "EKOS",
+      "name": "Ekos Teknoloji",
+      "sector": "Endüstriyel Makine -Teçhizat Üretim",
+      "freeFloatPercent": 27.4,
+      "paidInCapitalMn": 280
+    },
+    {
+      "code": "EKSUN",
+      "name": "Eksun Gıda",
+      "sector": "Gıda",
+      "freeFloatPercent": 27.3,
+      "paidInCapitalMn": 600
+    },
+    {
+      "code": "ELITE",
+      "name": "Elite Organik Gıda",
+      "sector": "Gıda",
+      "freeFloatPercent": 31.3,
+      "paidInCapitalMn": 129.6
+    },
+    {
+      "code": "EMKEL",
+      "name": "Emek Elektrik",
+      "sector": "Elektrik Enerji Ürt.Teçh/Tesis Kurulum",
+      "freeFloatPercent": 77.9,
+      "paidInCapitalMn": 150
+    },
+    {
+      "code": "EMNIS",
+      "name": "Eminiş Ambalaj",
+      "sector": "Boya",
+      "freeFloatPercent": 34,
+      "paidInCapitalMn": 6.2
+    },
+    {
+      "code": "ENDAE",
+      "name": "Enda Enerji",
+      "sector": "Elektrik Üretim",
+      "freeFloatPercent": 25.9,
+      "paidInCapitalMn": 437.2
+    },
+    {
+      "code": "ENERY",
+      "name": "Enerya Enerji",
+      "sector": "Elektrik - Doğalgaz Dağıtım",
+      "freeFloatPercent": 23.7,
+      "paidInCapitalMn": 9000
+    },
+    {
+      "code": "ENJSA",
+      "name": "Enerjisa Enerji",
+      "sector": "Elektrik - Doğalgaz Dağıtım",
+      "freeFloatPercent": 20,
+      "paidInCapitalMn": 1181.1
+    },
+    {
+      "code": "ENKAI",
+      "name": "Enka İnşaat",
+      "sector": "İnşaat- Taahhüt",
+      "freeFloatPercent": 8.3,
+      "paidInCapitalMn": 6000
+    },
+    {
+      "code": "ENSRI",
+      "name": "Ensari Deri",
+      "sector": "Deri Giyim",
+      "freeFloatPercent": 19.7,
+      "paidInCapitalMn": 116.8
+    },
+    {
+      "code": "ENTRA",
+      "name": "Ic Enterra Yenilenebilir",
+      "sector": "Elektrik Üretim",
+      "freeFloatPercent": 20,
+      "paidInCapitalMn": 1845
+    },
+    {
+      "code": "EPLAS",
+      "name": "Egeplast",
+      "sector": "İnşaat Malzemeleri",
+      "freeFloatPercent": 71.7,
+      "paidInCapitalMn": 190.6
+    },
+    {
+      "code": "ERBOS",
+      "name": "Erbosan",
+      "sector": "Demir-Çelik Döküm",
+      "freeFloatPercent": 58.1,
+      "paidInCapitalMn": 20
+    },
+    {
+      "code": "ERCB",
+      "name": "Erciyas Çelik Boru",
+      "sector": "Demir-Çelik Temel",
+      "freeFloatPercent": 21.1,
+      "paidInCapitalMn": 77.8
+    },
+    {
+      "code": "EREGL",
+      "name": "Ereğli Demir Çelik",
+      "sector": "Demir-Çelik Temel",
+      "freeFloatPercent": 47.3,
+      "paidInCapitalMn": 7000
+    },
+    {
+      "code": "ERSU",
+      "name": "Ersu Gıda",
+      "sector": "Meşrubat / İçecek",
+      "freeFloatPercent": 65.5,
+      "paidInCapitalMn": 36
+    },
+    {
+      "code": "ESCAR",
+      "name": "Escar Filo",
+      "sector": "Ulaştırma-Lojistik",
+      "freeFloatPercent": 20.4,
+      "paidInCapitalMn": 500
+    },
+    {
+      "code": "ESCOM",
+      "name": "Escort Teknoloji",
+      "sector": "Teknoloji",
+      "freeFloatPercent": 65.8,
+      "paidInCapitalMn": 704.8
+    },
+    {
+      "code": "ESEN",
+      "name": "Esenboğa Elektrik",
+      "sector": "Elektrik Üretim",
+      "freeFloatPercent": 37.5,
+      "paidInCapitalMn": 1820
+    },
+    {
+      "code": "ETILR",
+      "name": "Etiler Gıda",
+      "sector": "Gıda",
+      "freeFloatPercent": 62.1,
+      "paidInCapitalMn": 240
+    },
+    {
+      "code": "ETYAT",
+      "name": "Euro Trend Yatırım",
+      "sector": "Yatırım Ortaklıkları",
+      "freeFloatPercent": 92.2,
+      "paidInCapitalMn": 20
+    },
+    {
+      "code": "EUHOL",
+      "name": "Euro Yatırım",
+      "sector": "Holdingler",
+      "freeFloatPercent": 88.6,
+      "paidInCapitalMn": 150
+    },
+    {
+      "code": "EUKYO",
+      "name": "Euro Kapital Yatırım Ortaklığı",
+      "sector": "Yatırım Ortaklıkları",
+      "freeFloatPercent": 99.4,
+      "paidInCapitalMn": 20
+    },
+    {
+      "code": "EUPWR",
+      "name": "Europower Enerji",
+      "sector": "Elektrik Enerji Ürt.Teçh/Tesis Kurulum",
+      "freeFloatPercent": 30.2,
+      "paidInCapitalMn": 660
+    },
+    {
+      "code": "EUREN",
+      "name": "Europen Endüstri",
+      "sector": "Demir-Çelik Döküm",
+      "freeFloatPercent": 37.4,
+      "paidInCapitalMn": 2100
+    },
+    {
+      "code": "EUYO",
+      "name": "Euro Menkul",
+      "sector": "Yatırım Ortaklıkları",
+      "freeFloatPercent": 99.6,
+      "paidInCapitalMn": 20
+    },
+    {
+      "code": "EYGYO",
+      "name": "EYG Gayrimenkul",
+      "sector": "GYO",
+      "freeFloatPercent": 35.4,
+      "paidInCapitalMn": 700
+    },
+    {
+      "code": "FADE",
+      "name": "Fade Gıda Yatırım",
+      "sector": "Gıda",
+      "freeFloatPercent": 49.7,
+      "paidInCapitalMn": 83.9
+    },
+    {
+      "code": "FENER",
+      "name": "Fenerbahce Futbol A.Ş.",
+      "sector": "Spor",
+      "freeFloatPercent": 37.6,
+      "paidInCapitalMn": 1250
+    },
+    {
+      "code": "FLAP",
+      "name": "Flap Kongre Hiz.Oto.Tur.A.Ş",
+      "sector": "Diğer",
+      "freeFloatPercent": 75.9,
+      "paidInCapitalMn": 93.8
+    },
+    {
+      "code": "FMIZP",
+      "name": "F-M İzmit Piston",
+      "sector": "Otomotiv Parçası",
+      "freeFloatPercent": 22.2,
+      "paidInCapitalMn": 14.3
+    },
+    {
+      "code": "FONET",
+      "name": "Fonet Bilgi Teknolojileri",
+      "sector": "Teknoloji",
+      "freeFloatPercent": 61.6,
+      "paidInCapitalMn": 144
+    },
+    {
+      "code": "FORMT",
+      "name": "Formet Metal ve Cam Sanayii",
+      "sector": "İnşaat Malzemeleri",
+      "freeFloatPercent": 93.5,
+      "paidInCapitalMn": 1076.3
+    },
+    {
+      "code": "FORTE",
+      "name": "Forte Bilgi İletişim",
+      "sector": "Teknoloji",
+      "freeFloatPercent": 32.8,
+      "paidInCapitalMn": 67
+    },
+    {
+      "code": "FRIGO",
+      "name": "Frigo Pak Gıda",
+      "sector": "Gıda",
+      "freeFloatPercent": 82.4,
+      "paidInCapitalMn": 147.1
+    },
+    {
+      "code": "FROTO",
+      "name": "Ford Otosan",
+      "sector": "Otomotiv",
+      "freeFloatPercent": 17.7,
+      "paidInCapitalMn": 3509.1
+    },
+    {
+      "code": "FZLGY",
+      "name": "Fuzul Gayrimenkul",
+      "sector": "GYO",
+      "freeFloatPercent": 31.9,
+      "paidInCapitalMn": 1250
+    },
+    {
+      "code": "GARAN",
+      "name": "Garanti Bankası",
+      "sector": "Bankacılık",
+      "freeFloatPercent": 14,
+      "paidInCapitalMn": 4200
+    },
+    {
+      "code": "GARFA",
+      "name": "Garanti BBVA Faktoring",
+      "sector": "Fin.Kiralama ve Faktoring",
+      "freeFloatPercent": 8.4,
+      "paidInCapitalMn": 397.5
+    },
+    {
+      "code": "GEDIK",
+      "name": "Gedik Yatırım",
+      "sector": "Aracı Kurumlar",
+      "freeFloatPercent": 13.5,
+      "paidInCapitalMn": 2000
+    },
+    {
+      "code": "GEDZA",
+      "name": "Gediz Ambalaj Sanayi",
+      "sector": "Kimyasal Ürün",
+      "freeFloatPercent": 52.7,
+      "paidInCapitalMn": 46.7
+    },
+    {
+      "code": "GENIL",
+      "name": "Gen İlaç",
+      "sector": "Sağlık ve İlaç",
+      "freeFloatPercent": 23.9,
+      "paidInCapitalMn": 300
+    },
+    {
+      "code": "GENTS",
+      "name": "Gentaş",
+      "sector": "Mobilya",
+      "freeFloatPercent": 54.4,
+      "paidInCapitalMn": 750
+    },
+    {
+      "code": "GEREL",
+      "name": "Gersan Elektrik",
+      "sector": "Kablo",
+      "freeFloatPercent": 52.2,
+      "paidInCapitalMn": 372.5
+    },
+    {
+      "code": "GESAN",
+      "name": "Girişim Elektrik",
+      "sector": "Elektrik Enerji Ürt.Teçh/Tesis Kurulum",
+      "freeFloatPercent": 30.8,
+      "paidInCapitalMn": 460
+    },
+    {
+      "code": "GIPTA",
+      "name": "Gıpta",
+      "sector": "Kırtasiye",
+      "freeFloatPercent": 34.4,
+      "paidInCapitalMn": 132
+    },
+    {
+      "code": "GLBMD",
+      "name": "Global Menkul Değerler",
+      "sector": "Aracı Kurumlar",
+      "freeFloatPercent": 24.3,
+      "paidInCapitalMn": 118
+    },
+    {
+      "code": "GLCVY",
+      "name": "Gelecek Varlık Yön.",
+      "sector": "Varlık Yönetim",
+      "freeFloatPercent": 18.9,
+      "paidInCapitalMn": 139.7
+    },
+    {
+      "code": "GLRMK",
+      "name": "Gülermak Ağır Sanayi",
+      "sector": "İnşaat- Taahhüt",
+      "freeFloatPercent": 12,
+      "paidInCapitalMn": 322.6
+    },
+    {
+      "code": "GLRYH",
+      "name": "Güler Yatırım Holding",
+      "sector": "Holdingler",
+      "freeFloatPercent": 79.4,
+      "paidInCapitalMn": 600
+    },
+    {
+      "code": "GLYHO",
+      "name": "Global Yatırım Holding",
+      "sector": "Holdingler",
+      "freeFloatPercent": 60.3,
+      "paidInCapitalMn": 1950
+    },
+    {
+      "code": "GMTAS",
+      "name": "Gimat Mağazacılık",
+      "sector": "Perakande - Ticaret",
+      "freeFloatPercent": 99.5,
+      "paidInCapitalMn": 149.2
+    },
+    {
+      "code": "GOKNR",
+      "name": "Göknur Gıda",
+      "sector": "Gıda",
+      "freeFloatPercent": 47.6,
+      "paidInCapitalMn": 350
+    },
+    {
+      "code": "GOLTS",
+      "name": "Göltaş Çimento",
+      "sector": "Çimento",
+      "freeFloatPercent": 58.3,
+      "paidInCapitalMn": 18
+    },
+    {
+      "code": "GOODY",
+      "name": "Goodyear",
+      "sector": "Otomotiv Lastiği",
+      "freeFloatPercent": 25.2,
+      "paidInCapitalMn": 270
+    },
+    {
+      "code": "GOZDE",
+      "name": "Gözde Girisim Sermayesi",
+      "sector": "Yatırım Ortaklıkları",
+      "freeFloatPercent": 30.4,
+      "paidInCapitalMn": 385
+    },
+    {
+      "code": "GRNYO",
+      "name": "Garanti YO",
+      "sector": "Yatırım Ortaklıkları",
+      "freeFloatPercent": 96.4,
+      "paidInCapitalMn": 37.5
+    },
+    {
+      "code": "GRSEL",
+      "name": "Gürsel Taşımacılık",
+      "sector": "Ulaştırma-Lojistik",
+      "freeFloatPercent": 29.1,
+      "paidInCapitalMn": 102
+    },
+    {
+      "code": "GRTHO",
+      "name": "GrainTurk Tarım",
+      "sector": "Perakande - Ticaret",
+      "freeFloatPercent": 29,
+      "paidInCapitalMn": 125
+    },
+    {
+      "code": "GSDDE",
+      "name": "GSD Denizcilik Gayrimenkul İnş",
+      "sector": "Ulaştırma-Lojistik",
+      "freeFloatPercent": 32,
+      "paidInCapitalMn": 150
+    },
+    {
+      "code": "GSDHO",
+      "name": "GSD Holding A.Ş.",
+      "sector": "Holdingler",
+      "freeFloatPercent": 58.7,
+      "paidInCapitalMn": 1000
+    },
+    {
+      "code": "GSRAY",
+      "name": "Galatasaray Sportif A.Ş",
+      "sector": "Spor",
+      "freeFloatPercent": 40,
+      "paidInCapitalMn": 13500
+    },
+    {
+      "code": "GUBRF",
+      "name": "Gübre Fabrikaları",
+      "sector": "Tarım Kimyasalları",
+      "freeFloatPercent": 21.1,
+      "paidInCapitalMn": 334
+    },
+    {
+      "code": "GUNDG",
+      "name": "Gündoğdu Gıda",
+      "sector": "Gıda",
+      "freeFloatPercent": 25.6,
+      "paidInCapitalMn": 39
+    },
+    {
+      "code": "GWIND",
+      "name": "Galata Wind Enerji",
+      "sector": "Elektrik Üretim",
+      "freeFloatPercent": 30,
+      "paidInCapitalMn": 540
+    },
+    {
+      "code": "GZNMI",
+      "name": "Gezinomi Seyahat",
+      "sector": "Turizm",
+      "freeFloatPercent": 34.1,
+      "paidInCapitalMn": 65
+    },
+    {
+      "code": "HALKB",
+      "name": "Halkbank",
+      "sector": "Bankacılık",
+      "freeFloatPercent": 8.5,
+      "paidInCapitalMn": 7184.8
+    },
+    {
+      "code": "HATEK",
+      "name": "Hateks Hatay Tekstil",
+      "sector": "Tekstil Entegre",
+      "freeFloatPercent": 69.1,
+      "paidInCapitalMn": 63
+    },
+    {
+      "code": "HATSN",
+      "name": "Hat-San",
+      "sector": "Ulaştırma-Lojistik",
+      "freeFloatPercent": 20,
+      "paidInCapitalMn": 221.5
+    },
+    {
+      "code": "HDFGS",
+      "name": "Hedef Girişim Sermayesi",
+      "sector": "Yatırım Ortaklıkları",
+      "freeFloatPercent": 78.7,
+      "paidInCapitalMn": 1130
+    },
+    {
+      "code": "HEDEF",
+      "name": "Hedef Holding",
+      "sector": "Holdingler",
+      "freeFloatPercent": 8,
+      "paidInCapitalMn": 1949.5
+    },
+    {
+      "code": "HEKTS",
+      "name": "Hektaş",
+      "sector": "Tarım Kimyasalları",
+      "freeFloatPercent": 44.6,
+      "paidInCapitalMn": 8430
+    },
+    {
+      "code": "HKTM",
+      "name": "Hidropar",
+      "sector": "Endüstriyel Makine -Teçhizat Üretim",
+      "freeFloatPercent": 66.2,
+      "paidInCapitalMn": 105
+    },
+    {
+      "code": "HLGYO",
+      "name": "Halk GYO",
+      "sector": "GYO",
+      "freeFloatPercent": 20.6,
+      "paidInCapitalMn": 3840
+    },
+    {
+      "code": "HOROZ",
+      "name": "Horoz Lojistik",
+      "sector": "Ulaştırma-Lojistik",
+      "freeFloatPercent": 24.1,
+      "paidInCapitalMn": 90.5
+    },
+    {
+      "code": "HRKET",
+      "name": "Hareket Proje",
+      "sector": "Endüstriyel Makine -Teçhizat Üretim",
+      "freeFloatPercent": 20.7,
+      "paidInCapitalMn": 115.2
+    },
+    {
+      "code": "HTTBT",
+      "name": "Hitit Bilgisayar",
+      "sector": "Bilgisayar Toptancılığı",
+      "freeFloatPercent": 27.6,
+      "paidInCapitalMn": 300
+    },
+    {
+      "code": "HUBVC",
+      "name": "Hub Girişim Ser. Y.O.",
+      "sector": "Yatırım Ortaklıkları",
+      "freeFloatPercent": 84.4,
+      "paidInCapitalMn": 280
+    },
+    {
+      "code": "HUNER",
+      "name": "Hun Enerji",
+      "sector": "Elektrik Üretim",
+      "freeFloatPercent": 67,
+      "paidInCapitalMn": 1000
+    },
+    {
+      "code": "HURGZ",
+      "name": "Hürriyet",
+      "sector": "Medya",
+      "freeFloatPercent": 18.8,
+      "paidInCapitalMn": 592
+    },
+    {
+      "code": "ICBCT",
+      "name": "ICBC Turkey Bank",
+      "sector": "Bankacılık",
+      "freeFloatPercent": 7.2,
+      "paidInCapitalMn": 860
+    },
+    {
+      "code": "ICUGS",
+      "name": "Icu Girişim Ser. Y.O.",
+      "sector": "Yatırım Ortaklıkları",
+      "freeFloatPercent": 96.6,
+      "paidInCapitalMn": 347.5
+    },
+    {
+      "code": "IDGYO",
+      "name": "İdealist GYO",
+      "sector": "GYO",
+      "freeFloatPercent": 79.5,
+      "paidInCapitalMn": 150
+    },
+    {
+      "code": "IEYHO",
+      "name": "Işıklar Enerji ve Yapı Holding",
+      "sector": "Holdingler",
+      "freeFloatPercent": 79.3,
+      "paidInCapitalMn": 543.6
+    },
+    {
+      "code": "IHAAS",
+      "name": "İhlas Haber Ajansı",
+      "sector": "Medya",
+      "freeFloatPercent": 34.4,
+      "paidInCapitalMn": 163
+    },
+    {
+      "code": "IHEVA",
+      "name": "İhlas Ev Aletleri",
+      "sector": "Dayanıklı Tüketim",
+      "freeFloatPercent": 72.2,
+      "paidInCapitalMn": 350.5
+    },
+    {
+      "code": "IHGZT",
+      "name": "İhlas Gazetecilik",
+      "sector": "Medya",
+      "freeFloatPercent": 59.4,
+      "paidInCapitalMn": 800
+    },
+    {
+      "code": "IHLAS",
+      "name": "İhlas Holding",
+      "sector": "Holdingler",
+      "freeFloatPercent": 83.9,
+      "paidInCapitalMn": 1500
+    },
+    {
+      "code": "IHLGM",
+      "name": "İhlas Gayrimenkul",
+      "sector": "GYO",
+      "freeFloatPercent": 74.7,
+      "paidInCapitalMn": 1000
+    },
+    {
+      "code": "IHYAY",
+      "name": "İhlas Yayın Holding",
+      "sector": "Medya",
+      "freeFloatPercent": 73.8,
+      "paidInCapitalMn": 450
+    },
+    {
+      "code": "IMASM",
+      "name": "İmaş Makine",
+      "sector": "Endüstriyel Makine -Teçhizat Üretim",
+      "freeFloatPercent": 67.3,
+      "paidInCapitalMn": 925
+    },
+    {
+      "code": "INDES",
+      "name": "İndeks Bilgisayar",
+      "sector": "Bilgisayar Toptancılığı",
+      "freeFloatPercent": 61.2,
+      "paidInCapitalMn": 750
+    },
+    {
+      "code": "INFO",
+      "name": "İnfo Yatırım",
+      "sector": "Aracı Kurumlar",
+      "freeFloatPercent": 68.5,
+      "paidInCapitalMn": 960.3
+    },
+    {
+      "code": "INGRM",
+      "name": "İngram Bilişim",
+      "sector": "Bilgisayar Toptancılığı",
+      "freeFloatPercent": 8.4,
+      "paidInCapitalMn": 24
+    },
+    {
+      "code": "INTEK",
+      "name": "Innosa Teknoloji",
+      "sector": "Teknoloji",
+      "freeFloatPercent": 25.1,
+      "paidInCapitalMn": 8
+    },
+    {
+      "code": "INTEM",
+      "name": "İntema",
+      "sector": "İnşaat Malzemeleri",
+      "freeFloatPercent": 12.6,
+      "paidInCapitalMn": 19.4
+    },
+    {
+      "code": "INVEO",
+      "name": "İnveo Yatırım Holding",
+      "sector": "Holdingler",
+      "freeFloatPercent": 18.9,
+      "paidInCapitalMn": 1000
+    },
+    {
+      "code": "INVES",
+      "name": "Investco Holding",
+      "sector": "Holdingler",
+      "freeFloatPercent": 20,
+      "paidInCapitalMn": 187.5
+    },
+    {
+      "code": "IPEKE",
+      "name": "İpek Enerji",
+      "sector": "Elektrik Üretim",
+      "freeFloatPercent": 33.6,
+      "paidInCapitalMn": 259.8
+    },
+    {
+      "code": "ISATR",
+      "name": "İş Bankası (A)",
+      "sector": "Bankacılık",
+      "freeFloatPercent": 23.9,
+      "paidInCapitalMn": 0
+    },
+    {
+      "code": "ISBIR",
+      "name": "İşbir Holding",
+      "sector": "Holdingler",
+      "freeFloatPercent": 41.4,
+      "paidInCapitalMn": 32.4
+    },
+    {
+      "code": "ISBTR",
+      "name": "İş Bankası (B)",
+      "sector": "Bankacılık",
+      "freeFloatPercent": 25.6,
+      "paidInCapitalMn": 0
+    },
+    {
+      "code": "ISCTR",
+      "name": "İş Bankası (C)",
+      "sector": "Bankacılık",
+      "freeFloatPercent": 32.4,
+      "paidInCapitalMn": 25000
+    },
+    {
+      "code": "ISDMR",
+      "name": "İskenderun Demir Çelik",
+      "sector": "Demir-Çelik Temel",
+      "freeFloatPercent": 5.1,
+      "paidInCapitalMn": 2900
+    },
+    {
+      "code": "ISFIN",
+      "name": "İş Finansal Kiralama",
+      "sector": "Fin.Kiralama ve Faktoring",
+      "freeFloatPercent": 39,
+      "paidInCapitalMn": 695.3
+    },
+    {
+      "code": "ISGSY",
+      "name": "İş Girişim",
+      "sector": "Yatırım Ortaklıkları",
+      "freeFloatPercent": 40.8,
+      "paidInCapitalMn": 74.7
+    },
+    {
+      "code": "ISGYO",
+      "name": "İş GYO",
+      "sector": "GYO",
+      "freeFloatPercent": 38.9,
+      "paidInCapitalMn": 958.8
+    },
+    {
+      "code": "ISKPL",
+      "name": "Işıklar Plastik",
+      "sector": "Kimyasal Ürün",
+      "freeFloatPercent": 33,
+      "paidInCapitalMn": 1500
+    },
+    {
+      "code": "ISKUR",
+      "name": "İş Bankası Kurucu",
+      "sector": "Bankacılık",
+      "freeFloatPercent": 28.6,
+      "paidInCapitalMn": 0
+    },
+    {
+      "code": "ISMEN",
+      "name": "İş Yatırım",
+      "sector": "Aracı Kurumlar",
+      "freeFloatPercent": 29.2,
+      "paidInCapitalMn": 1500
+    },
+    {
+      "code": "ISSEN",
+      "name": "İşbir Sentetik",
+      "sector": "Tekstil Entegre",
+      "freeFloatPercent": 19.3,
+      "paidInCapitalMn": 424.4
+    },
+    {
+      "code": "ISYAT",
+      "name": "İs YO",
+      "sector": "Yatırım Ortaklıkları",
+      "freeFloatPercent": 67.3,
+      "paidInCapitalMn": 160.6
+    },
+    {
+      "code": "IZENR",
+      "name": "İzdemir Enerji",
+      "sector": "Elektrik Üretim",
+      "freeFloatPercent": 37.4,
+      "paidInCapitalMn": 2443.8
+    },
+    {
+      "code": "IZFAS",
+      "name": "İzmir Fırça",
+      "sector": "Boya",
+      "freeFloatPercent": 56.6,
+      "paidInCapitalMn": 59.1
+    },
+    {
+      "code": "IZINV",
+      "name": "İz Yatırım Holding",
+      "sector": "Gıda",
+      "freeFloatPercent": 70,
+      "paidInCapitalMn": 17.5
+    },
+    {
+      "code": "IZMDC",
+      "name": "İzmir Demir Çelik",
+      "sector": "Demir-Çelik Temel",
+      "freeFloatPercent": 29.1,
+      "paidInCapitalMn": 1500
+    },
+    {
+      "code": "JANTS",
+      "name": "Jantsa Jant",
+      "sector": "Otomotiv Parçası",
+      "freeFloatPercent": 17,
+      "paidInCapitalMn": 700
+    },
+    {
+      "code": "KAPLM",
+      "name": "Kaplamin",
+      "sector": "Kağıt Ürünleri",
+      "freeFloatPercent": 16.8,
+      "paidInCapitalMn": 20
+    },
+    {
+      "code": "KAREL",
+      "name": "Karel Elektronik",
+      "sector": "İletişim Cihazları",
+      "freeFloatPercent": 39.8,
+      "paidInCapitalMn": 805.9
+    },
+    {
+      "code": "KARSN",
+      "name": "Karsan Otomotiv",
+      "sector": "Otomotiv",
+      "freeFloatPercent": 39.4,
+      "paidInCapitalMn": 900
+    },
+    {
+      "code": "KARTN",
+      "name": "Kartonsan",
+      "sector": "Kağıt Ürünleri",
+      "freeFloatPercent": 21.7,
+      "paidInCapitalMn": 75
+    },
+    {
+      "code": "KATMR",
+      "name": "Katmerciler Araç Üstü Ekipman",
+      "sector": "Otomotiv Parçası",
+      "freeFloatPercent": 79.8,
+      "paidInCapitalMn": 2153.3
+    },
+    {
+      "code": "KAYSE",
+      "name": "Kayseri Şeker",
+      "sector": "Gıda",
+      "freeFloatPercent": 27,
+      "paidInCapitalMn": 706
+    },
+    {
+      "code": "KBORU",
+      "name": "Kuzey Boru",
+      "sector": "İnşaat Malzemeleri",
+      "freeFloatPercent": 24,
+      "paidInCapitalMn": 600
+    },
+    {
+      "code": "KCAER",
+      "name": "Kocaer Çelik Sanayi",
+      "sector": "Demir-Çelik Temel",
+      "freeFloatPercent": 25.8,
+      "paidInCapitalMn": 1915
+    },
+    {
+      "code": "KCHOL",
+      "name": "Koç Holding",
+      "sector": "Holdingler",
+      "freeFloatPercent": 26.4,
+      "paidInCapitalMn": 2535.9
+    },
+    {
+      "code": "KENT",
+      "name": "Kent Gıda",
+      "sector": "Gıda",
+      "freeFloatPercent": 0.5,
+      "paidInCapitalMn": 220
+    },
+    {
+      "code": "KERVN",
+      "name": "Kervansaray Yat. Holding",
+      "sector": "Holdingler",
+      "freeFloatPercent": 37.1,
+      "paidInCapitalMn": 588.5
+    },
+    {
+      "code": "KFEIN",
+      "name": "Kafein Yazılım",
+      "sector": "Teknoloji",
+      "freeFloatPercent": 74.7,
+      "paidInCapitalMn": 197.5
+    },
+    {
+      "code": "KGYO",
+      "name": "Koray GYO",
+      "sector": "GYO",
+      "freeFloatPercent": 31.4,
+      "paidInCapitalMn": 1000
+    },
+    {
+      "code": "KIMMR",
+      "name": "Ersan Alışveriş Hizmetleri",
+      "sector": "Perakande - Ticaret",
+      "freeFloatPercent": 27.1,
+      "paidInCapitalMn": 240
+    },
+    {
+      "code": "KLGYO",
+      "name": "Kiler GYO",
+      "sector": "GYO",
+      "freeFloatPercent": 46.1,
+      "paidInCapitalMn": 1395
+    },
+    {
+      "code": "KLKIM",
+      "name": "Kalekim Kimyevi Maddeler",
+      "sector": "Seramik",
+      "freeFloatPercent": 26.1,
+      "paidInCapitalMn": 460
+    },
+    {
+      "code": "KLMSN",
+      "name": "Klimasan",
+      "sector": "Dayanıklı Tüketim",
+      "freeFloatPercent": 31.7,
+      "paidInCapitalMn": 79.2
+    },
+    {
+      "code": "KLNMA",
+      "name": "T. Kalkınma Bankası",
+      "sector": "Bankacılık",
+      "freeFloatPercent": 0.9,
+      "paidInCapitalMn": 10000
+    },
+    {
+      "code": "KLRHO",
+      "name": "Kiler Holding",
+      "sector": "Holdingler",
+      "freeFloatPercent": 21,
+      "paidInCapitalMn": 1625
+    },
+    {
+      "code": "KLSER",
+      "name": "Kaleseramik",
+      "sector": "Seramik",
+      "freeFloatPercent": 21.2,
+      "paidInCapitalMn": 514.8
+    },
+    {
+      "code": "KLSYN",
+      "name": "Koleksiyon Mobilya",
+      "sector": "Mobilya",
+      "freeFloatPercent": 25,
+      "paidInCapitalMn": 431.4
+    },
+    {
+      "code": "KLYPV",
+      "name": "Kalyon Güneş Teknolojileri",
+      "sector": "Elektrik Enerji Ürt.Teçh/Tesis Kurulum",
+      "freeFloatPercent": 11.3,
+      "paidInCapitalMn": 411.4
+    },
+    {
+      "code": "KMPUR",
+      "name": "Kimteks Poliüretan",
+      "sector": "Kimyasal Ürün",
+      "freeFloatPercent": 26.8,
+      "paidInCapitalMn": 486.2
+    },
+    {
+      "code": "KNFRT",
+      "name": "Konfrut Gıda",
+      "sector": "Meşrubat / İçecek",
+      "freeFloatPercent": 22.4,
+      "paidInCapitalMn": 264
+    },
+    {
+      "code": "KOCMT",
+      "name": "Koç Metalurji",
+      "sector": "Demir-Çelik Temel",
+      "freeFloatPercent": 23.3,
+      "paidInCapitalMn": 2500
+    },
+    {
+      "code": "KONKA",
+      "name": "Konya Kağıt",
+      "sector": "Kağıt Ürünleri",
+      "freeFloatPercent": 19.3,
+      "paidInCapitalMn": 130
+    },
+    {
+      "code": "KONTR",
+      "name": "Kontrolmatik Teknoloji",
+      "sector": "Elektrik Enerji Ürt.Teçh/Tesis Kurulum",
+      "freeFloatPercent": 64.6,
+      "paidInCapitalMn": 650
+    },
+    {
+      "code": "KONYA",
+      "name": "Konya Çimento",
+      "sector": "Çimento",
+      "freeFloatPercent": 16,
+      "paidInCapitalMn": 4.9
+    },
+    {
+      "code": "KOPOL",
+      "name": "Koza Polyester",
+      "sector": "Endüstriyel Tekstil",
+      "freeFloatPercent": 20.5,
+      "paidInCapitalMn": 1297
+    },
+    {
+      "code": "KORDS",
+      "name": "Kordsa Teknik Tekstil",
+      "sector": "Endüstriyel Tekstil",
+      "freeFloatPercent": 28.6,
+      "paidInCapitalMn": 194.5
+    },
+    {
+      "code": "KOTON",
+      "name": "Koton",
+      "sector": "Tekstil Entegre",
+      "freeFloatPercent": 13.2,
+      "paidInCapitalMn": 829.7
+    },
+    {
+      "code": "KOZAA",
+      "name": "Koza Anadolu Metal",
+      "sector": "Madencilik",
+      "freeFloatPercent": 41.3,
+      "paidInCapitalMn": 388.1
+    },
+    {
+      "code": "KOZAL",
+      "name": "Koza Altın",
+      "sector": "Madencilik",
+      "freeFloatPercent": 29.9,
+      "paidInCapitalMn": 3202.5
+    },
+    {
+      "code": "KRDMA",
+      "name": "Kardemir (A)",
+      "sector": "Demir-Çelik Temel",
+      "freeFloatPercent": 99.6,
+      "paidInCapitalMn": 240.3
+    },
+    {
+      "code": "KRDMB",
+      "name": "Kardemir (B)",
+      "sector": "Demir-Çelik Temel",
+      "freeFloatPercent": 97.8,
+      "paidInCapitalMn": 119.5
+    },
+    {
+      "code": "KRDMD",
+      "name": "Kardemir (D)",
+      "sector": "Demir-Çelik Temel",
+      "freeFloatPercent": 93,
+      "paidInCapitalMn": 780.2
+    },
+    {
+      "code": "KRGYO",
+      "name": "Korfez GYO",
+      "sector": "GYO",
+      "freeFloatPercent": 25.8,
+      "paidInCapitalMn": 990
+    },
+    {
+      "code": "KRONT",
+      "name": "Kron Telekomünikasyon",
+      "sector": "İletişim",
+      "freeFloatPercent": 65.2,
+      "paidInCapitalMn": 171.2
+    },
+    {
+      "code": "KRPLS",
+      "name": "Koroplast Temizlik Ambalaj",
+      "sector": "Kağıt Ürünleri",
+      "freeFloatPercent": 44.9,
+      "paidInCapitalMn": 174.6
+    },
+    {
+      "code": "KRSTL",
+      "name": "Kristal Kola",
+      "sector": "Meşrubat / İçecek",
+      "freeFloatPercent": 89.4,
+      "paidInCapitalMn": 192
+    },
+    {
+      "code": "KRTEK",
+      "name": "Karsu Tekstil",
+      "sector": "Tekstil Entegre",
+      "freeFloatPercent": 49.2,
+      "paidInCapitalMn": 35.1
+    },
+    {
+      "code": "KRVGD",
+      "name": "Kervan Gıda",
+      "sector": "Gıda",
+      "freeFloatPercent": 27.5,
+      "paidInCapitalMn": 2160
+    },
+    {
+      "code": "KSTUR",
+      "name": "Kuştur Turizm",
+      "sector": "Turizm",
+      "freeFloatPercent": 12.2,
+      "paidInCapitalMn": 4.2
+    },
+    {
+      "code": "KTLEV",
+      "name": "Katılımevim",
+      "sector": "Diğer",
+      "freeFloatPercent": 39.1,
+      "paidInCapitalMn": 2070
+    },
+    {
+      "code": "KTSKR",
+      "name": "Kütahya Şeker",
+      "sector": "Gıda",
+      "freeFloatPercent": 30.2,
+      "paidInCapitalMn": 46
+    },
+    {
+      "code": "KUTPO",
+      "name": "Kütahya Porselen",
+      "sector": "Seramik",
+      "freeFloatPercent": 25.8,
+      "paidInCapitalMn": 39.9
+    },
+    {
+      "code": "KUVVA",
+      "name": "Kuvva Gıda",
+      "sector": "Gıda",
+      "freeFloatPercent": 72.4,
+      "paidInCapitalMn": 31
+    },
+    {
+      "code": "KUYAS",
+      "name": "Kuyas Yatırım AŞ",
+      "sector": "İnşaat- Taahhüt",
+      "freeFloatPercent": 99.7,
+      "paidInCapitalMn": 400
+    },
+    {
+      "code": "KZBGY",
+      "name": "Kızılbük GYO",
+      "sector": "GYO",
+      "freeFloatPercent": 34.6,
+      "paidInCapitalMn": 1200
+    },
+    {
+      "code": "KZGYO",
+      "name": "Kuzugrup GYO",
+      "sector": "GYO",
+      "freeFloatPercent": 25,
+      "paidInCapitalMn": 200
+    },
+    {
+      "code": "LIDER",
+      "name": "Lider Turizm",
+      "sector": "Ulaştırma-Lojistik",
+      "freeFloatPercent": 8.5,
+      "paidInCapitalMn": 825
+    },
+    {
+      "code": "LIDFA",
+      "name": "Lider Faktoring",
+      "sector": "Fin.Kiralama ve Faktoring",
+      "freeFloatPercent": 41.2,
+      "paidInCapitalMn": 558.4
+    },
+    {
+      "code": "LILAK",
+      "name": "Lila Kağıt",
+      "sector": "Kağıt Ürünleri",
+      "freeFloatPercent": 44,
+      "paidInCapitalMn": 590
+    },
+    {
+      "code": "LINK",
+      "name": "Link Bilgisayar",
+      "sector": "Teknoloji",
+      "freeFloatPercent": 57.5,
+      "paidInCapitalMn": 21.8
+    },
+    {
+      "code": "LKMNH",
+      "name": "Lokman Hekim Engurusag",
+      "sector": "Sağlık ve İlaç",
+      "freeFloatPercent": 71.6,
+      "paidInCapitalMn": 216
+    },
+    {
+      "code": "LMKDC",
+      "name": "Limak Doğu Anadolu Çimento",
+      "sector": "Çimento",
+      "freeFloatPercent": 30.2,
+      "paidInCapitalMn": 516.2
+    },
+    {
+      "code": "LOGO",
+      "name": "Logo Yazılım",
+      "sector": "Teknoloji",
+      "freeFloatPercent": 64.5,
+      "paidInCapitalMn": 95
+    },
+    {
+      "code": "LRSHO",
+      "name": "Loras Holding",
+      "sector": "Holdingler",
+      "freeFloatPercent": 79.6,
+      "paidInCapitalMn": 768
+    },
+    {
+      "code": "LUKSK",
+      "name": "Lüks Kadife",
+      "sector": "Tekstil Entegre",
+      "freeFloatPercent": 17,
+      "paidInCapitalMn": 28
+    },
+    {
+      "code": "LYDHO",
+      "name": "Lydia Holding",
+      "sector": "Holdingler",
+      "freeFloatPercent": 21.2,
+      "paidInCapitalMn": 208
+    },
+    {
+      "code": "LYDYE",
+      "name": "Tetamat Gıda",
+      "sector": "Gıda",
+      "freeFloatPercent": 32.7,
+      "paidInCapitalMn": 1.9
+    },
+    {
+      "code": "MAALT",
+      "name": "Marmaris Altınyunus",
+      "sector": "Turizm",
+      "freeFloatPercent": 23.5,
+      "paidInCapitalMn": 7
+    },
+    {
+      "code": "MACKO",
+      "name": "Maçkolik",
+      "sector": "Eğlence Hizmetleri",
+      "freeFloatPercent": 33.5,
+      "paidInCapitalMn": 100
+    },
+    {
+      "code": "MAGEN",
+      "name": "Margün Enerji",
+      "sector": "Elektrik Enerji Ürt.Teçh/Tesis Kurulum",
+      "freeFloatPercent": 24.4,
+      "paidInCapitalMn": 2950
+    },
+    {
+      "code": "MAKIM",
+      "name": "Makim Makina",
+      "sector": "Endüstriyel Makine -Teçhizat Üretim",
+      "freeFloatPercent": 38,
+      "paidInCapitalMn": 112
+    },
+    {
+      "code": "MAKTK",
+      "name": "Makina Takım",
+      "sector": "İnşaat Malzemeleri",
+      "freeFloatPercent": 52.2,
+      "paidInCapitalMn": 200
+    },
+    {
+      "code": "MANAS",
+      "name": "Manas Enerji Yönetimi",
+      "sector": "Teknoloji",
+      "freeFloatPercent": 74.2,
+      "paidInCapitalMn": 165.5
+    },
+    {
+      "code": "MARBL",
+      "name": "Tureks Turunç",
+      "sector": "Madencilik",
+      "freeFloatPercent": 26.2,
+      "paidInCapitalMn": 228.6
+    },
+    {
+      "code": "MARKA",
+      "name": "Marka Yatırım Holding",
+      "sector": "Holdingler",
+      "freeFloatPercent": 97.4,
+      "paidInCapitalMn": 21
+    },
+    {
+      "code": "MARMR",
+      "name": "Marmara Holding",
+      "sector": "Kimyasal Ürün",
+      "freeFloatPercent": 21.6,
+      "paidInCapitalMn": 3016.3
+    },
+    {
+      "code": "MARTI",
+      "name": "Martı Otel İşletmeleri",
+      "sector": "Turizm",
+      "freeFloatPercent": 70.3,
+      "paidInCapitalMn": 600
+    },
+    {
+      "code": "MAVI",
+      "name": "Mavi Giyim Sanayi Tic.A.S",
+      "sector": "Tekstil Entegre",
+      "freeFloatPercent": 72.6,
+      "paidInCapitalMn": 794.5
+    },
+    {
+      "code": "MEDTR",
+      "name": "Meditera Tıbbi Malzeme",
+      "sector": "Sağlık ve İlaç",
+      "freeFloatPercent": 20.6,
+      "paidInCapitalMn": 119
+    },
+    {
+      "code": "MEGAP",
+      "name": "Mega Polietilen Köpük",
+      "sector": "Tekstil Entegre",
+      "freeFloatPercent": 79.1,
+      "paidInCapitalMn": 275
+    },
+    {
+      "code": "MEGMT",
+      "name": "Mega Metal",
+      "sector": "İnşaat Malzemeleri",
+      "freeFloatPercent": 23.7,
+      "paidInCapitalMn": 265
+    },
+    {
+      "code": "MEKAG",
+      "name": "Meka Beton",
+      "sector": "İnşaat Malzemeleri",
+      "freeFloatPercent": 27,
+      "paidInCapitalMn": 800
+    },
+    {
+      "code": "MEPET",
+      "name": "Metro Petrol ve Tesisleri",
+      "sector": "Petrol",
+      "freeFloatPercent": 52.2,
+      "paidInCapitalMn": 75.4
+    },
+    {
+      "code": "MERCN",
+      "name": "Mercan Kimya",
+      "sector": "Kimyasal Ürün",
+      "freeFloatPercent": 39,
+      "paidInCapitalMn": 190.4
+    },
+    {
+      "code": "MERIT",
+      "name": "Merit Turizm Yatırım",
+      "sector": "Turizm",
+      "freeFloatPercent": 27.6,
+      "paidInCapitalMn": 336.6
+    },
+    {
+      "code": "MERKO",
+      "name": "Merko Gıda",
+      "sector": "Gıda",
+      "freeFloatPercent": 73.5,
+      "paidInCapitalMn": 115.1
+    },
+    {
+      "code": "METRO",
+      "name": "Metro Tic. Mali Yat.",
+      "sector": "Holdingler",
+      "freeFloatPercent": 60.1,
+      "paidInCapitalMn": 540
+    },
+    {
+      "code": "MGROS",
+      "name": "Migros",
+      "sector": "Perakande - Ticaret",
+      "freeFloatPercent": 50.8,
+      "paidInCapitalMn": 181.1
+    },
+    {
+      "code": "MHRGY",
+      "name": "Mhr GYO",
+      "sector": "GYO",
+      "freeFloatPercent": 22.4,
+      "paidInCapitalMn": 1240.5
+    },
+    {
+      "code": "MIATK",
+      "name": "Mia Teknoloji",
+      "sector": "Teknoloji",
+      "freeFloatPercent": 58.3,
+      "paidInCapitalMn": 494
+    },
+    {
+      "code": "MMCAS",
+      "name": "MMC San.ve Tic. Yatırımlar A.Ş",
+      "sector": "Holdingler",
+      "freeFloatPercent": 92.9,
+      "paidInCapitalMn": 13.3
+    },
+    {
+      "code": "MNDRS",
+      "name": "Menderes Tekstil",
+      "sector": "Tekstil Entegre",
+      "freeFloatPercent": 49.5,
+      "paidInCapitalMn": 277.3
+    },
+    {
+      "code": "MNDTR",
+      "name": "Mondi Tire",
+      "sector": "Kağıt Ürünleri",
+      "freeFloatPercent": 15.3,
+      "paidInCapitalMn": 1049
+    },
+    {
+      "code": "MOBTL",
+      "name": "Mobitel İletişim",
+      "sector": "İletişim",
+      "freeFloatPercent": 20.2,
+      "paidInCapitalMn": 1025
+    },
+    {
+      "code": "MOGAN",
+      "name": "Mogan Enerji",
+      "sector": "Elektrik Enerji Ürt.Teçh/Tesis Kurulum",
+      "freeFloatPercent": 10.7,
+      "paidInCapitalMn": 2440.1
+    },
+    {
+      "code": "MOPAS",
+      "name": "Mopaş",
+      "sector": "Perakande - Ticaret",
+      "freeFloatPercent": 21,
+      "paidInCapitalMn": 273
+    },
+    {
+      "code": "MPARK",
+      "name": "MLP Sağlık Hizmetleri",
+      "sector": "Sağlık ve İlaç",
+      "freeFloatPercent": 41.7,
+      "paidInCapitalMn": 191
+    },
+    {
+      "code": "MRGYO",
+      "name": "Martı GYO",
+      "sector": "GYO",
+      "freeFloatPercent": 70.7,
+      "paidInCapitalMn": 1091
+    },
+    {
+      "code": "MRSHL",
+      "name": "Marshall",
+      "sector": "Boya",
+      "freeFloatPercent": 6.4,
+      "paidInCapitalMn": 11
+    },
+    {
+      "code": "MSGYO",
+      "name": "Mistral GYO",
+      "sector": "GYO",
+      "freeFloatPercent": 29.2,
+      "paidInCapitalMn": 469.8
+    },
+    {
+      "code": "MTRKS",
+      "name": "Matriks Bilgi Dağıtım",
+      "sector": "Teknoloji",
+      "freeFloatPercent": 40.1,
+      "paidInCapitalMn": 100.5
+    },
+    {
+      "code": "MTRYO",
+      "name": "Metro YO",
+      "sector": "Yatırım Ortaklıkları",
+      "freeFloatPercent": 95,
+      "paidInCapitalMn": 42
+    },
+    {
+      "code": "MZHLD",
+      "name": "Mazhar Zorlu Holding",
+      "sector": "İnşaat Malzemeleri",
+      "freeFloatPercent": 66.4,
+      "paidInCapitalMn": 108.6
+    },
+    {
+      "code": "NATEN",
+      "name": "Naturel Yenilenebilir Enerji",
+      "sector": "Elektrik Enerji Ürt.Teçh/Tesis Kurulum",
+      "freeFloatPercent": 35.7,
+      "paidInCapitalMn": 825
+    },
+    {
+      "code": "NETAS",
+      "name": "Netaş",
+      "sector": "İletişim Cihazları",
+      "freeFloatPercent": 36.9,
+      "paidInCapitalMn": 64.9
+    },
+    {
+      "code": "NIBAS",
+      "name": "Niğde Beton Sanayi",
+      "sector": "Çimento",
+      "freeFloatPercent": 82.6,
+      "paidInCapitalMn": 54
+    },
+    {
+      "code": "NTGAZ",
+      "name": "Naturel Gaz",
+      "sector": "Petrol",
+      "freeFloatPercent": 38.4,
+      "paidInCapitalMn": 690
+    },
+    {
+      "code": "NTHOL",
+      "name": "Net Holding",
+      "sector": "Holdingler",
+      "freeFloatPercent": 22.6,
+      "paidInCapitalMn": 500
+    },
+    {
+      "code": "NUGYO",
+      "name": "Nurol GYO",
+      "sector": "GYO",
+      "freeFloatPercent": 50.2,
+      "paidInCapitalMn": 335.3
+    },
+    {
+      "code": "NUHCM",
+      "name": "Nuh Çimento",
+      "sector": "Çimento",
+      "freeFloatPercent": 18.9,
+      "paidInCapitalMn": 150.2
+    },
+    {
+      "code": "OBAMS",
+      "name": "Oba Makarnacılık",
+      "sector": "Gıda",
+      "freeFloatPercent": 25.2,
+      "paidInCapitalMn": 479.4
+    },
+    {
+      "code": "OBASE",
+      "name": "Obase Bilgisayar Danışmanlık",
+      "sector": "Teknoloji",
+      "freeFloatPercent": 31.5,
+      "paidInCapitalMn": 45.5
+    },
+    {
+      "code": "ODAS",
+      "name": "Odaş Elektrik Üretim",
+      "sector": "Elektrik Üretim",
+      "freeFloatPercent": 78,
+      "paidInCapitalMn": 1400
+    },
+    {
+      "code": "ODINE",
+      "name": "Odine Solutions",
+      "sector": "Teknoloji",
+      "freeFloatPercent": 24,
+      "paidInCapitalMn": 110.5
+    },
+    {
+      "code": "OFSYM",
+      "name": "Ofis Yem",
+      "sector": "Gıda",
+      "freeFloatPercent": 15.5,
+      "paidInCapitalMn": 146.3
+    },
+    {
+      "code": "ONCSM",
+      "name": "Oncosem",
+      "sector": "Sağlık ve İlaç",
+      "freeFloatPercent": 36.3,
+      "paidInCapitalMn": 23.9
+    },
+    {
+      "code": "ONRYT",
+      "name": "Onur Yüksek Teknoloji",
+      "sector": "Savunma",
+      "freeFloatPercent": 31.4,
+      "paidInCapitalMn": 62.8
+    },
+    {
+      "code": "ORCAY",
+      "name": "Ortaköy Çay Sanayi",
+      "sector": "Meşrubat / İçecek",
+      "freeFloatPercent": 60,
+      "paidInCapitalMn": 80
+    },
+    {
+      "code": "ORGE",
+      "name": "ORGE Enerji Elektrik",
+      "sector": "Elektrik Enerji Ürt.Teçh/Tesis Kurulum",
+      "freeFloatPercent": 52.3,
+      "paidInCapitalMn": 80
+    },
+    {
+      "code": "ORMA",
+      "name": "Orma Orman Mahsulleri",
+      "sector": "Kağıt Ürünleri",
+      "freeFloatPercent": 13.3,
+      "paidInCapitalMn": 27.2
+    },
+    {
+      "code": "OSMEN",
+      "name": "Osmanlı Menkul Değ.",
+      "sector": "Aracı Kurumlar",
+      "freeFloatPercent": 31.1,
+      "paidInCapitalMn": 400
+    },
+    {
+      "code": "OSTIM",
+      "name": "Ostim Endüst. Yatırımlar",
+      "sector": "Diğer",
+      "freeFloatPercent": 85,
+      "paidInCapitalMn": 590
+    },
+    {
+      "code": "OTKAR",
+      "name": "Otokar",
+      "sector": "Otomotiv",
+      "freeFloatPercent": 27.2,
+      "paidInCapitalMn": 120
+    },
+    {
+      "code": "OTTO",
+      "name": "Otto Holding",
+      "sector": "Gıda",
+      "freeFloatPercent": 49.1,
+      "paidInCapitalMn": 7.6
+    },
+    {
+      "code": "OYAKC",
+      "name": "Oyak Çimento",
+      "sector": "Çimento",
+      "freeFloatPercent": 19.9,
+      "paidInCapitalMn": 4861.7
+    },
+    {
+      "code": "OYAYO",
+      "name": "Oyak Yatırım Ortaklığı",
+      "sector": "Yatırım Ortaklıkları",
+      "freeFloatPercent": 52.6,
+      "paidInCapitalMn": 20
+    },
+    {
+      "code": "OYLUM",
+      "name": "Oylum Sınai Yatırımlar",
+      "sector": "Gıda",
+      "freeFloatPercent": 77.9,
+      "paidInCapitalMn": 85
+    },
+    {
+      "code": "OYYAT",
+      "name": "Oyak Yatırım",
+      "sector": "Aracı Kurumlar",
+      "freeFloatPercent": 30.3,
+      "paidInCapitalMn": 300
+    },
+    {
+      "code": "OZATD",
+      "name": "Özata Denizcilik",
+      "sector": "Endüstriyel Makine -Teçhizat Üretim",
+      "freeFloatPercent": 17.9,
+      "paidInCapitalMn": 71.4
+    },
+    {
+      "code": "OZGYO",
+      "name": "Özderici GYO",
+      "sector": "GYO",
+      "freeFloatPercent": 33.9,
+      "paidInCapitalMn": 650
+    },
+    {
+      "code": "OZKGY",
+      "name": "Özak GYO",
+      "sector": "GYO",
+      "freeFloatPercent": 25,
+      "paidInCapitalMn": 1456
+    },
+    {
+      "code": "OZRDN",
+      "name": "Özerden Plastik",
+      "sector": "Kimyasal Ürün",
+      "freeFloatPercent": 58.8,
+      "paidInCapitalMn": 73.5
+    },
+    {
+      "code": "OZSUB",
+      "name": "Özsu Balık",
+      "sector": "Hayvancılık",
+      "freeFloatPercent": 33.3,
+      "paidInCapitalMn": 120
+    },
+    {
+      "code": "OZYSR",
+      "name": "Özyaşar Tel",
+      "sector": "Demir-Çelik Temel",
+      "freeFloatPercent": 27,
+      "paidInCapitalMn": 103.2
+    },
+    {
+      "code": "PAGYO",
+      "name": "Panora GYO",
+      "sector": "GYO",
+      "freeFloatPercent": 37,
+      "paidInCapitalMn": 87
+    },
+    {
+      "code": "PAMEL",
+      "name": "Pamel Yenilenebilir Elekt.",
+      "sector": "Elektrik Üretim",
+      "freeFloatPercent": 23.9,
+      "paidInCapitalMn": 31.1
+    },
+    {
+      "code": "PAPIL",
+      "name": "Papilon Savunma",
+      "sector": "Teknoloji",
+      "freeFloatPercent": 99.9,
+      "paidInCapitalMn": 206.3
+    },
+    {
+      "code": "PARSN",
+      "name": "Parsan",
+      "sector": "Otomotiv Parçası",
+      "freeFloatPercent": 27.5,
+      "paidInCapitalMn": 86.8
+    },
+    {
+      "code": "PASEU",
+      "name": "Pasifik Eurasia",
+      "sector": "Ulaştırma-Lojistik",
+      "freeFloatPercent": 32,
+      "paidInCapitalMn": 672
+    },
+    {
+      "code": "PATEK",
+      "name": "Pasifik Teknoloji",
+      "sector": "Teknoloji",
+      "freeFloatPercent": 48.8,
+      "paidInCapitalMn": 600
+    },
+    {
+      "code": "PCILT",
+      "name": "PC İletişim ve Medya",
+      "sector": "Medya",
+      "freeFloatPercent": 37.7,
+      "paidInCapitalMn": 118.4
+    },
+    {
+      "code": "PEKGY",
+      "name": "Peker GYO",
+      "sector": "GYO",
+      "freeFloatPercent": 83.2,
+      "paidInCapitalMn": 5000
+    },
+    {
+      "code": "PENGD",
+      "name": "Penguen Gıda",
+      "sector": "Gıda",
+      "freeFloatPercent": 76.8,
+      "paidInCapitalMn": 175
+    },
+    {
+      "code": "PENTA",
+      "name": "Penta Teknoloji",
+      "sector": "Bilgisayar Toptancılığı",
+      "freeFloatPercent": 40.3,
+      "paidInCapitalMn": 393.5
+    },
+    {
+      "code": "PETKM",
+      "name": "Petkim",
+      "sector": "Petrol",
+      "freeFloatPercent": 48,
+      "paidInCapitalMn": 2534.4
+    },
+    {
+      "code": "PETUN",
+      "name": "Pınar Et ve Un",
+      "sector": "Gıda",
+      "freeFloatPercent": 33.1,
+      "paidInCapitalMn": 303.3
+    },
+    {
+      "code": "PGSUS",
+      "name": "Pegasus Hava Taşımacılığı",
+      "sector": "Havayolları ve Hizm.",
+      "freeFloatPercent": 46.3,
+      "paidInCapitalMn": 500
+    },
+    {
+      "code": "PINSU",
+      "name": "Pınar Su",
+      "sector": "Meşrubat / İçecek",
+      "freeFloatPercent": 32.3,
+      "paidInCapitalMn": 284.3
+    },
+    {
+      "code": "PKART",
+      "name": "Plastikkart A.Ş",
+      "sector": "Teknoloji",
+      "freeFloatPercent": 33.8,
+      "paidInCapitalMn": 22.8
+    },
+    {
+      "code": "PKENT",
+      "name": "Petrokent",
+      "sector": "Turizm",
+      "freeFloatPercent": 19.9,
+      "paidInCapitalMn": 24.9
+    },
+    {
+      "code": "PLTUR",
+      "name": "Platform Turizm",
+      "sector": "Ulaştırma-Lojistik",
+      "freeFloatPercent": 20.2,
+      "paidInCapitalMn": 244.8
+    },
+    {
+      "code": "PNLSN",
+      "name": "Panelsan Çatı Cephe",
+      "sector": "İnşaat Malzemeleri",
+      "freeFloatPercent": 28,
+      "paidInCapitalMn": 75
+    },
+    {
+      "code": "PNSUT",
+      "name": "Pınar Süt",
+      "sector": "Meşrubat / İçecek",
+      "freeFloatPercent": 37.5,
+      "paidInCapitalMn": 314.7
+    },
+    {
+      "code": "POLHO",
+      "name": "Polisan Holding",
+      "sector": "Holdingler",
+      "freeFloatPercent": 21.6,
+      "paidInCapitalMn": 758.5
+    },
+    {
+      "code": "POLTK",
+      "name": "Politeknik Metal",
+      "sector": "Kimyasal Ürün",
+      "freeFloatPercent": 19.7,
+      "paidInCapitalMn": 3.8
+    },
+    {
+      "code": "PRDGS",
+      "name": "Pardus Girişim",
+      "sector": "Yatırım Ortaklıkları",
+      "freeFloatPercent": 56.5,
+      "paidInCapitalMn": 196
+    },
+    {
+      "code": "PRKAB",
+      "name": "Prysmian Kablo",
+      "sector": "Kablo",
+      "freeFloatPercent": 16.2,
+      "paidInCapitalMn": 216.7
+    },
+    {
+      "code": "PRKME",
+      "name": "Park Elek. Madencilik",
+      "sector": "Madencilik",
+      "freeFloatPercent": 31.5,
+      "paidInCapitalMn": 148.9
+    },
+    {
+      "code": "PRZMA",
+      "name": "Prizma Pres Matbaacılık",
+      "sector": "Kağıt Ürünleri",
+      "freeFloatPercent": 68.7,
+      "paidInCapitalMn": 77.4
+    },
+    {
+      "code": "PSDTC",
+      "name": "Pergamon Status",
+      "sector": "Perakande - Ticaret",
+      "freeFloatPercent": 74.2,
+      "paidInCapitalMn": 7.4
+    },
+    {
+      "code": "PSGYO",
+      "name": "Pasifik GYO",
+      "sector": "GYO",
+      "freeFloatPercent": 43.2,
+      "paidInCapitalMn": 5323.6
+    },
+    {
+      "code": "QNBFK",
+      "name": "QNB Finans Fin. Kir.",
+      "sector": "Fin.Kiralama ve Faktoring",
+      "freeFloatPercent": 0.6,
+      "paidInCapitalMn": 2000
+    },
+    {
+      "code": "QNBTR",
+      "name": "QNB Bank",
+      "sector": "Bankacılık",
+      "freeFloatPercent": 0.1,
+      "paidInCapitalMn": 3350
+    },
+    {
+      "code": "QUAGR",
+      "name": "QUA Granite",
+      "sector": "İnşaat Malzemeleri",
+      "freeFloatPercent": 29.5,
+      "paidInCapitalMn": 2640
+    },
+    {
+      "code": "RALYH",
+      "name": "Ral Yatırım Holding",
+      "sector": "Tekstil Entegre",
+      "freeFloatPercent": 36.8,
+      "paidInCapitalMn": 333
+    },
+    {
+      "code": "RAYSG",
+      "name": "Ray Sigorta",
+      "sector": "Sigorta",
+      "freeFloatPercent": 5.5,
+      "paidInCapitalMn": 163.1
+    },
+    {
+      "code": "REEDR",
+      "name": "Reeder",
+      "sector": "İletişim Cihazları",
+      "freeFloatPercent": 48.9,
+      "paidInCapitalMn": 950
+    },
+    {
+      "code": "RGYAS",
+      "name": "Rönesans Gayrimenkul",
+      "sector": "GYO",
+      "freeFloatPercent": 11.3,
+      "paidInCapitalMn": 331
+    },
+    {
+      "code": "RNPOL",
+      "name": "Rainbow Polikarbonat",
+      "sector": "Kimyasal Ürün",
+      "freeFloatPercent": 56,
+      "paidInCapitalMn": 30
+    },
+    {
+      "code": "RODRG",
+      "name": "Rodrigo Tekstil",
+      "sector": "Tekstil Entegre",
+      "freeFloatPercent": 55.9,
+      "paidInCapitalMn": 28.3
+    },
+    {
+      "code": "ROYAL",
+      "name": "Royal Halı",
+      "sector": "Tekstil Entegre",
+      "freeFloatPercent": 4.3,
+      "paidInCapitalMn": 60
+    },
+    {
+      "code": "RTALB",
+      "name": "RTA laboratuvarlari",
+      "sector": "Sağlık ve İlaç",
+      "freeFloatPercent": 84.5,
+      "paidInCapitalMn": 500
+    },
+    {
+      "code": "RUBNS",
+      "name": "Rubenis Tekstil",
+      "sector": "Tekstil Entegre",
+      "freeFloatPercent": 42.6,
+      "paidInCapitalMn": 82
+    },
+    {
+      "code": "RUZYE",
+      "name": "Ruzy Madencilik ve Enerji",
+      "sector": "Madencilik",
+      "freeFloatPercent": 76.9,
+      "paidInCapitalMn": 275
+    },
+    {
+      "code": "RYGYO",
+      "name": "Reysaş GYO",
+      "sector": "GYO",
+      "freeFloatPercent": 29,
+      "paidInCapitalMn": 2000
+    },
+    {
+      "code": "RYSAS",
+      "name": "Reysaş Taşımacılık",
+      "sector": "Ulaştırma-Lojistik",
+      "freeFloatPercent": 30.9,
+      "paidInCapitalMn": 2000
+    },
+    {
+      "code": "SAFKR",
+      "name": "Safkar Ege Soğutmacılık",
+      "sector": "Dayanıklı Tüketim",
+      "freeFloatPercent": 66.8,
+      "paidInCapitalMn": 200
+    },
+    {
+      "code": "SAHOL",
+      "name": "Sabancı Holding",
+      "sector": "Holdingler",
+      "freeFloatPercent": 53.2,
+      "paidInCapitalMn": 2100.4
+    },
+    {
+      "code": "SAMAT",
+      "name": "Saray Matbaacılık",
+      "sector": "Kağıt Ürünleri",
+      "freeFloatPercent": 88.7,
+      "paidInCapitalMn": 112.4
+    },
+    {
+      "code": "SANEL",
+      "name": "San-El Muhendislik",
+      "sector": "Endüstriyel Makine -Teçhizat Üretim",
+      "freeFloatPercent": 83.8,
+      "paidInCapitalMn": 18.3
+    },
+    {
+      "code": "SANFM",
+      "name": "Sanifoam Sünger Sanayi",
+      "sector": "Kimyasal Ürün",
+      "freeFloatPercent": 59.7,
+      "paidInCapitalMn": 375
+    },
+    {
+      "code": "SANKO",
+      "name": "Sanko Pazarlama",
+      "sector": "Pazarlama",
+      "freeFloatPercent": 13.5,
+      "paidInCapitalMn": 150
+    },
+    {
+      "code": "SARKY",
+      "name": "Sarkuysan",
+      "sector": "İnşaat Malzemeleri",
+      "freeFloatPercent": 81.8,
+      "paidInCapitalMn": 1000
+    },
+    {
+      "code": "SASA",
+      "name": "Sasa Polyester Sanayi A.Ş.",
+      "sector": "Endüstriyel Tekstil",
+      "freeFloatPercent": 30.2,
+      "paidInCapitalMn": 43815.6
+    },
+    {
+      "code": "SAYAS",
+      "name": "Say Yenilenebilir Enerji",
+      "sector": "Elektrik Enerji Ürt.Teçh/Tesis Kurulum",
+      "freeFloatPercent": 54.6,
+      "paidInCapitalMn": 77.3
+    },
+    {
+      "code": "SDTTR",
+      "name": "SDT Uzay",
+      "sector": "Savunma",
+      "freeFloatPercent": 27.6,
+      "paidInCapitalMn": 58
+    },
+    {
+      "code": "SEGMN",
+      "name": "Seğmen Gıda",
+      "sector": "Gıda",
+      "freeFloatPercent": 24.3,
+      "paidInCapitalMn": 179
+    },
+    {
+      "code": "SEGYO",
+      "name": "Şeker GYO",
+      "sector": "GYO",
+      "freeFloatPercent": 25,
+      "paidInCapitalMn": 813.6
+    },
+    {
+      "code": "SEKFK",
+      "name": "Şeker Finansal Kiralama A.Ş",
+      "sector": "Fin.Kiralama ve Faktoring",
+      "freeFloatPercent": 51.1,
+      "paidInCapitalMn": 100
+    },
+    {
+      "code": "SEKUR",
+      "name": "Sekuro Plastik",
+      "sector": "Kimyasal Ürün",
+      "freeFloatPercent": 69.6,
+      "paidInCapitalMn": 53.6
+    },
+    {
+      "code": "SELEC",
+      "name": "Selçuk Ecza Deposu",
+      "sector": "Sağlık ve İlaç",
+      "freeFloatPercent": 14.9,
+      "paidInCapitalMn": 621
+    },
+    {
+      "code": "SELVA",
+      "name": "Selva Gıda",
+      "sector": "Gıda",
+      "freeFloatPercent": 68.1,
+      "paidInCapitalMn": 468
+    },
+    {
+      "code": "SERNT",
+      "name": "Seranit Granit",
+      "sector": "İnşaat Malzemeleri",
+      "freeFloatPercent": 27.3,
+      "paidInCapitalMn": 413
+    },
+    {
+      "code": "SEYKM",
+      "name": "Seyitler Kimya",
+      "sector": "Kimyasal Ürün",
+      "freeFloatPercent": 75.4,
+      "paidInCapitalMn": 200
+    },
+    {
+      "code": "SILVR",
+      "name": "Silverline",
+      "sector": "Endüstriyel Makine -Teçhizat Üretim",
+      "freeFloatPercent": 57,
+      "paidInCapitalMn": 350
+    },
+    {
+      "code": "SISE",
+      "name": "Şişecam",
+      "sector": "Cam",
+      "freeFloatPercent": 47.1,
+      "paidInCapitalMn": 3063.2
+    },
+    {
+      "code": "SKBNK",
+      "name": "Şekerbank",
+      "sector": "Bankacılık",
+      "freeFloatPercent": 49.8,
+      "paidInCapitalMn": 2500
+    },
+    {
+      "code": "SKTAS",
+      "name": "Söktaş",
+      "sector": "Tekstil Entegre",
+      "freeFloatPercent": 59.9,
+      "paidInCapitalMn": 500
+    },
+    {
+      "code": "SKYLP",
+      "name": "Skyalp Fin. Tek.ve Danışmanlık",
+      "sector": "Diğer",
+      "freeFloatPercent": 67.9,
+      "paidInCapitalMn": 9.5
+    },
+    {
+      "code": "SKYMD",
+      "name": "Şeker Yatırım",
+      "sector": "Aracı Kurumlar",
+      "freeFloatPercent": 33.8,
+      "paidInCapitalMn": 155
+    },
+    {
+      "code": "SMART",
+      "name": "Smartiks Yazılım",
+      "sector": "Teknoloji",
+      "freeFloatPercent": 93.1,
+      "paidInCapitalMn": 31.9
+    },
+    {
+      "code": "SMRTG",
+      "name": "Smart Güneş Enerjisi",
+      "sector": "Elektrik Enerji Ürt.Teçh/Tesis Kurulum",
+      "freeFloatPercent": 27,
+      "paidInCapitalMn": 605.9
+    },
+    {
+      "code": "SMRVA",
+      "name": "Sümer Varlık Yönetim",
+      "sector": "Varlık Yönetim",
+      "freeFloatPercent": 23.7,
+      "paidInCapitalMn": 118
+    },
+    {
+      "code": "SNGYO",
+      "name": "Sinpas GYO",
+      "sector": "GYO",
+      "freeFloatPercent": 59.2,
+      "paidInCapitalMn": 4000
+    },
+    {
+      "code": "SNICA",
+      "name": "Sanica Isı Sanayi",
+      "sector": "Dayanıklı Tüketim",
+      "freeFloatPercent": 53.5,
+      "paidInCapitalMn": 600
+    },
+    {
+      "code": "SNKRN",
+      "name": "Senkron Güvenlik",
+      "sector": "Teknoloji",
+      "freeFloatPercent": 89.2,
+      "paidInCapitalMn": 7.8
+    },
+    {
+      "code": "SNPAM",
+      "name": "Sönmez Pamuklu",
+      "sector": "Tekstil Entegre",
+      "freeFloatPercent": 4.1,
+      "paidInCapitalMn": 390
+    },
+    {
+      "code": "SODSN",
+      "name": "Sodaş Sodyum Sanayii",
+      "sector": "Kimyasal Ürün",
+      "freeFloatPercent": 31.6,
+      "paidInCapitalMn": 15
+    },
+    {
+      "code": "SOKE",
+      "name": "Söke Değirmencilik",
+      "sector": "Gıda",
+      "freeFloatPercent": 24.5,
+      "paidInCapitalMn": 386.5
+    },
+    {
+      "code": "SOKM",
+      "name": "Şok Marketler",
+      "sector": "Perakande - Ticaret",
+      "freeFloatPercent": 45.7,
+      "paidInCapitalMn": 593.3
+    },
+    {
+      "code": "SONME",
+      "name": "Sönmez Filament",
+      "sector": "Tekstil Entegre",
+      "freeFloatPercent": 5,
+      "paidInCapitalMn": 74
+    },
+    {
+      "code": "SRVGY",
+      "name": "Servet GYO",
+      "sector": "GYO",
+      "freeFloatPercent": 24.4,
+      "paidInCapitalMn": 3250
+    },
+    {
+      "code": "SUMAS",
+      "name": "Sumas Mobilya",
+      "sector": "Mobilya",
+      "freeFloatPercent": 25.4,
+      "paidInCapitalMn": 6.2
+    },
+    {
+      "code": "SUNTK",
+      "name": "Sun Tekstil",
+      "sector": "Tekstil Entegre",
+      "freeFloatPercent": 23.7,
+      "paidInCapitalMn": 474.6
+    },
+    {
+      "code": "SURGY",
+      "name": "Sur GYO",
+      "sector": "GYO",
+      "freeFloatPercent": 22.7,
+      "paidInCapitalMn": 167.5
+    },
+    {
+      "code": "SUWEN",
+      "name": "Suwen Tekstil",
+      "sector": "Tekstil Entegre",
+      "freeFloatPercent": 65,
+      "paidInCapitalMn": 560
+    },
+    {
+      "code": "TABGD",
+      "name": "Tab Gıda",
+      "sector": "Gıda",
+      "freeFloatPercent": 20.1,
+      "paidInCapitalMn": 261.3
+    },
+    {
+      "code": "TARKM",
+      "name": "Tarkim",
+      "sector": "Tarım Kimyasalları",
+      "freeFloatPercent": 23.8,
+      "paidInCapitalMn": 21
+    },
+    {
+      "code": "TATEN",
+      "name": "Tatlıpınar Enerji",
+      "sector": "Elektrik Üretim",
+      "freeFloatPercent": 25,
+      "paidInCapitalMn": 280.5
+    },
+    {
+      "code": "TATGD",
+      "name": "Tat Gıda",
+      "sector": "Gıda",
+      "freeFloatPercent": 43.7,
+      "paidInCapitalMn": 244.8
+    },
+    {
+      "code": "TAVHL",
+      "name": "TAV Holding",
+      "sector": "Havayolları ve Hizm.",
+      "freeFloatPercent": 49.2,
+      "paidInCapitalMn": 363.3
+    },
+    {
+      "code": "TBORG",
+      "name": "Tuborg",
+      "sector": "Meşrubat / İçecek",
+      "freeFloatPercent": 5,
+      "paidInCapitalMn": 322.5
+    },
+    {
+      "code": "TCELL",
+      "name": "Turkcell",
+      "sector": "İletişim",
+      "freeFloatPercent": 53.9,
+      "paidInCapitalMn": 2200
+    },
+    {
+      "code": "TCKRC",
+      "name": "Kıraç Galvaniz",
+      "sector": "Diğer",
+      "freeFloatPercent": 26.5,
+      "paidInCapitalMn": 170
+    },
+    {
+      "code": "TDGYO",
+      "name": "Trend GYO",
+      "sector": "GYO",
+      "freeFloatPercent": 83.9,
+      "paidInCapitalMn": 69
+    },
+    {
+      "code": "TEHOL",
+      "name": "Tera Holding",
+      "sector": "Holdingler",
+      "freeFloatPercent": 54.3,
+      "paidInCapitalMn": 997.9
+    },
+    {
+      "code": "TEKTU",
+      "name": "Tek-Art Turizm",
+      "sector": "Turizm",
+      "freeFloatPercent": 65.1,
+      "paidInCapitalMn": 300
+    },
+    {
+      "code": "TERA",
+      "name": "Tera Yatırım",
+      "sector": "Aracı Kurumlar",
+      "freeFloatPercent": 34.4,
+      "paidInCapitalMn": 157.5
+    },
+    {
+      "code": "TEZOL",
+      "name": "Europap Tezol",
+      "sector": "Kağıt Ürünleri",
+      "freeFloatPercent": 25,
+      "paidInCapitalMn": 500
+    },
+    {
+      "code": "TGSAS",
+      "name": "TGS Dış Ticaret",
+      "sector": "Pazarlama",
+      "freeFloatPercent": 80.2,
+      "paidInCapitalMn": 15
+    },
+    {
+      "code": "THYAO",
+      "name": "Türk Hava Yolları",
+      "sector": "Havayolları ve Hizm.",
+      "freeFloatPercent": 50.6,
+      "paidInCapitalMn": 1380
+    },
+    {
+      "code": "TKFEN",
+      "name": "Tekfen Holding",
+      "sector": "İnşaat- Taahhüt",
+      "freeFloatPercent": 21.4,
+      "paidInCapitalMn": 370
+    },
+    {
+      "code": "TKNSA",
+      "name": "Teknosa İç ve Dış Tic.",
+      "sector": "Perakande - Ticaret",
+      "freeFloatPercent": 50,
+      "paidInCapitalMn": 201
+    },
+    {
+      "code": "TLMAN",
+      "name": "Trabzon Liman İşletmeciliği",
+      "sector": "Ulaştırma-Lojistik",
+      "freeFloatPercent": 39.5,
+      "paidInCapitalMn": 21
+    },
+    {
+      "code": "TMPOL",
+      "name": "TE-MAPOL Polimer Plastik",
+      "sector": "Kimyasal Ürün",
+      "freeFloatPercent": 57.7,
+      "paidInCapitalMn": 14.2
+    },
+    {
+      "code": "TMSN",
+      "name": "Tümosan Motor ve Traktör",
+      "sector": "Otomotiv",
+      "freeFloatPercent": 28.7,
+      "paidInCapitalMn": 115
+    },
+    {
+      "code": "TNZTP",
+      "name": "Tapdi Oksijen",
+      "sector": "Sağlık ve İlaç",
+      "freeFloatPercent": 21.7,
+      "paidInCapitalMn": 400
+    },
+    {
+      "code": "TOASO",
+      "name": "Tofaş Fabrika",
+      "sector": "Otomotiv",
+      "freeFloatPercent": 24.1,
+      "paidInCapitalMn": 500
+    },
+    {
+      "code": "TRCAS",
+      "name": "Turcas Holding",
+      "sector": "Petrol",
+      "freeFloatPercent": 28,
+      "paidInCapitalMn": 255.6
+    },
+    {
+      "code": "TRGYO",
+      "name": "Torunlar GYO",
+      "sector": "GYO",
+      "freeFloatPercent": 21,
+      "paidInCapitalMn": 1000
+    },
+    {
+      "code": "TRHOL",
+      "name": "Tera Finansal Yat. Holding",
+      "sector": "Holdingler",
+      "freeFloatPercent": 57.6,
+      "paidInCapitalMn": 30
+    },
+    {
+      "code": "TRILC",
+      "name": "Turk İlaç ve Serum Sanayi",
+      "sector": "Sağlık ve İlaç",
+      "freeFloatPercent": 45,
+      "paidInCapitalMn": 161.8
+    },
+    {
+      "code": "TSGYO",
+      "name": "TSKB GYO",
+      "sector": "GYO",
+      "freeFloatPercent": 11.4,
+      "paidInCapitalMn": 650
+    },
+    {
+      "code": "TSKB",
+      "name": "TSKB",
+      "sector": "Bankacılık",
+      "freeFloatPercent": 41.2,
+      "paidInCapitalMn": 2800
+    },
+    {
+      "code": "TSPOR",
+      "name": "Trabzonspor A.Ş",
+      "sector": "Spor",
+      "freeFloatPercent": 49,
+      "paidInCapitalMn": 7500
+    },
+    {
+      "code": "TTKOM",
+      "name": "Türk Telekom",
+      "sector": "İletişim",
+      "freeFloatPercent": 13.3,
+      "paidInCapitalMn": 3500
+    },
+    {
+      "code": "TTRAK",
+      "name": "Türk Traktör",
+      "sector": "Otomotiv",
+      "freeFloatPercent": 24.9,
+      "paidInCapitalMn": 100.1
+    },
+    {
+      "code": "TUCLK",
+      "name": "Tuğçelik Alüminyum ve Metal",
+      "sector": "Otomotiv Parçası",
+      "freeFloatPercent": 58.2,
+      "paidInCapitalMn": 180
+    },
+    {
+      "code": "TUKAS",
+      "name": "Tukaş",
+      "sector": "Gıda",
+      "freeFloatPercent": 56.4,
+      "paidInCapitalMn": 4500
+    },
+    {
+      "code": "TUPRS",
+      "name": "Tüpraş",
+      "sector": "Petrol",
+      "freeFloatPercent": 46.5,
+      "paidInCapitalMn": 1926.8
+    },
+    {
+      "code": "TUREX",
+      "name": "Tureks Tur.Taşımacılık",
+      "sector": "Ulaştırma-Lojistik",
+      "freeFloatPercent": 40,
+      "paidInCapitalMn": 1080
+    },
+    {
+      "code": "TURGG",
+      "name": "Türker Proje Gay.Gel.",
+      "sector": "GYO",
+      "freeFloatPercent": 23.3,
+      "paidInCapitalMn": 128.2
+    },
+    {
+      "code": "TURSG",
+      "name": "Türkiye Sigorta",
+      "sector": "Sigorta",
+      "freeFloatPercent": 18.9,
+      "paidInCapitalMn": 10000
+    },
+    {
+      "code": "UFUK",
+      "name": "Ufuk Yat.Yön.ve Gay. AŞ.",
+      "sector": "Fin.Kiralama ve Faktoring",
+      "freeFloatPercent": 39.8,
+      "paidInCapitalMn": 46.8
+    },
+    {
+      "code": "ULAS",
+      "name": "Ulaşlar Turizm Yatırımları",
+      "sector": "Turizm",
+      "freeFloatPercent": 83.7,
+      "paidInCapitalMn": 25.4
+    },
+    {
+      "code": "ULKER",
+      "name": "Ülker Bisküvi",
+      "sector": "Gıda",
+      "freeFloatPercent": 41,
+      "paidInCapitalMn": 369.3
+    },
+    {
+      "code": "ULUFA",
+      "name": "Ulusal Faktoring",
+      "sector": "Fin.Kiralama ve Faktoring",
+      "freeFloatPercent": 56.5,
+      "paidInCapitalMn": 540
+    },
+    {
+      "code": "ULUSE",
+      "name": "Ulusoy Elektrik",
+      "sector": "Elektrik Enerji Ürt.Teçh/Tesis Kurulum",
+      "freeFloatPercent": 6.3,
+      "paidInCapitalMn": 80
+    },
+    {
+      "code": "ULUUN",
+      "name": "Ulusoy Un",
+      "sector": "Gıda",
+      "freeFloatPercent": 38.7,
+      "paidInCapitalMn": 750
+    },
+    {
+      "code": "UMPAS",
+      "name": "Umpaş Holding",
+      "sector": "Holdingler",
+      "freeFloatPercent": 41.1,
+      "paidInCapitalMn": 42
+    },
+    {
+      "code": "UNLU",
+      "name": "Ünlü Yatırım Holding",
+      "sector": "Aracı Kurumlar",
+      "freeFloatPercent": 45.1,
+      "paidInCapitalMn": 175.7
+    },
+    {
+      "code": "USAK",
+      "name": "Uşak Seramik",
+      "sector": "Seramik",
+      "freeFloatPercent": 79.5,
+      "paidInCapitalMn": 1225
+    },
+    {
+      "code": "VAKBN",
+      "name": "Vakıfbank",
+      "sector": "Bankacılık",
+      "freeFloatPercent": 7.5,
+      "paidInCapitalMn": 9915.9
+    },
+    {
+      "code": "VAKFN",
+      "name": "Vakıf Fin. Kir.",
+      "sector": "Fin.Kiralama ve Faktoring",
+      "freeFloatPercent": 37.9,
+      "paidInCapitalMn": 5000
+    },
+    {
+      "code": "VAKKO",
+      "name": "Vakko Tekstil",
+      "sector": "Perakande - Ticaret",
+      "freeFloatPercent": 13.2,
+      "paidInCapitalMn": 160
+    },
+    {
+      "code": "VANGD",
+      "name": "Vanet Gıda Sanayi",
+      "sector": "Gıda",
+      "freeFloatPercent": 88.6,
+      "paidInCapitalMn": 25
+    },
+    {
+      "code": "VBTYZ",
+      "name": "VBT Yazılım",
+      "sector": "Teknoloji",
+      "freeFloatPercent": 44.9,
+      "paidInCapitalMn": 117
+    },
+    {
+      "code": "VERTU",
+      "name": "Verusatürk Girişim Sermayesi",
+      "sector": "Yatırım Ortaklıkları",
+      "freeFloatPercent": 36.4,
+      "paidInCapitalMn": 52
+    },
+    {
+      "code": "VERUS",
+      "name": "Verusa Holding",
+      "sector": "Holdingler",
+      "freeFloatPercent": 20.9,
+      "paidInCapitalMn": 70
+    },
+    {
+      "code": "VESBE",
+      "name": "Vestel Beyaz Esya",
+      "sector": "Dayanıklı Tüketim",
+      "freeFloatPercent": 22.7,
+      "paidInCapitalMn": 1600
+    },
+    {
+      "code": "VESTL",
+      "name": "Vestel Elektronik",
+      "sector": "Dayanıklı Tüketim",
+      "freeFloatPercent": 47.2,
+      "paidInCapitalMn": 335.5
+    },
+    {
+      "code": "VKFYO",
+      "name": "Vakıf YO",
+      "sector": "Yatırım Ortaklıkları",
+      "freeFloatPercent": 48.2,
+      "paidInCapitalMn": 30
+    },
+    {
+      "code": "VKGYO",
+      "name": "Vakıf GYO",
+      "sector": "GYO",
+      "freeFloatPercent": 31.5,
+      "paidInCapitalMn": 3450
+    },
+    {
+      "code": "VKING",
+      "name": "Viking Kağıt",
+      "sector": "Kağıt Ürünleri",
+      "freeFloatPercent": 41.1,
+      "paidInCapitalMn": 42
+    },
+    {
+      "code": "VRGYO",
+      "name": "Vera GYO",
+      "sector": "GYO",
+      "freeFloatPercent": 68,
+      "paidInCapitalMn": 820
+    },
+    {
+      "code": "VSNMD",
+      "name": "Vişne Madencilik",
+      "sector": "Madencilik",
+      "freeFloatPercent": 20.5,
+      "paidInCapitalMn": 117
+    },
+    {
+      "code": "YAPRK",
+      "name": "Yaprak Süt & Besi Çiftlikleri",
+      "sector": "Gıda",
+      "freeFloatPercent": 28,
+      "paidInCapitalMn": 14.2
+    },
+    {
+      "code": "YATAS",
+      "name": "Yataş Yatak",
+      "sector": "Mobilya",
+      "freeFloatPercent": 59,
+      "paidInCapitalMn": 149.8
+    },
+    {
+      "code": "YAYLA",
+      "name": "Yayla Enerji Uretim Turizm",
+      "sector": "Elektrik Üretim",
+      "freeFloatPercent": 74.3,
+      "paidInCapitalMn": 49.9
+    },
+    {
+      "code": "YBTAS",
+      "name": "Yibitaş İnş. Malzemeleri",
+      "sector": "İnşaat Malzemeleri",
+      "freeFloatPercent": 9.2,
+      "paidInCapitalMn": 300
+    },
+    {
+      "code": "YEOTK",
+      "name": "YEO Teknoloji",
+      "sector": "İnşaat- Taahhüt",
+      "freeFloatPercent": 36.3,
+      "paidInCapitalMn": 355
+    },
+    {
+      "code": "YESIL",
+      "name": "Yeşil Yatırım Holding",
+      "sector": "Holdingler",
+      "freeFloatPercent": 91.9,
+      "paidInCapitalMn": 645
+    },
+    {
+      "code": "YGGYO",
+      "name": "Yeni Gimat GYO",
+      "sector": "GYO",
+      "freeFloatPercent": 82.3,
+      "paidInCapitalMn": 241.9
+    },
+    {
+      "code": "YGYO",
+      "name": "Yeşil GYO",
+      "sector": "GYO",
+      "freeFloatPercent": 78.5,
+      "paidInCapitalMn": 1316.1
+    },
+    {
+      "code": "YIGIT",
+      "name": "Yiğit Akü",
+      "sector": "Otomotiv Parçası",
+      "freeFloatPercent": 24.9,
+      "paidInCapitalMn": 300.5
+    },
+    {
+      "code": "YKBNK",
+      "name": "Yapı Kredi Bankası",
+      "sector": "Bankacılık",
+      "freeFloatPercent": 38.7,
+      "paidInCapitalMn": 8447.1
+    },
+    {
+      "code": "YKSLN",
+      "name": "Yükselen Çelik",
+      "sector": "Demir-Çelik Temel",
+      "freeFloatPercent": 39.2,
+      "paidInCapitalMn": 250
+    },
+    {
+      "code": "YONGA",
+      "name": "Yonga Mobilya Sanayi",
+      "sector": "Mobilya",
+      "freeFloatPercent": 33.3,
+      "paidInCapitalMn": 16.8
+    },
+    {
+      "code": "YUNSA",
+      "name": "Yünsa",
+      "sector": "Tekstil Entegre",
+      "freeFloatPercent": 41.7,
+      "paidInCapitalMn": 480
+    },
+    {
+      "code": "YYAPI",
+      "name": "Yesil Yapi",
+      "sector": "İnşaat- Taahhüt",
+      "freeFloatPercent": 83.3,
+      "paidInCapitalMn": 1705
+    },
+    {
+      "code": "YYLGD",
+      "name": "Yayla Agro Gıda",
+      "sector": "Gıda",
+      "freeFloatPercent": 31,
+      "paidInCapitalMn": 1087
+    },
+    {
+      "code": "ZEDUR",
+      "name": "Zedur Enerji",
+      "sector": "Elektrik Üretim",
+      "freeFloatPercent": 40,
+      "paidInCapitalMn": 174.8
+    },
+    {
+      "code": "ZOREN",
+      "name": "Zorlu Enerji",
+      "sector": "Elektrik Üretim",
+      "freeFloatPercent": 37.3,
+      "paidInCapitalMn": 5000
+    },
+    {
+      "code": "ZRGYO",
+      "name": "Ziraat GYO",
+      "sector": "GYO",
+      "freeFloatPercent": 18.9,
+      "paidInCapitalMn": 4693.6
+    }
+  ]
+}

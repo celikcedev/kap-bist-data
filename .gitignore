@@ -1,0 +1,61 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Build outputs
+dist/
+*.tsbuildinfo
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Database
+*.db
+*.db-journal
+
+# Logs
+logs/
+*.log
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Playwright
+playwright-report/
+test-results/
+.playwright/
+
+# Documentation (local only - not needed on VPS)
+development-docs/
+reference-docs/
+
+# VPS Credentials (CRITICAL - never commit)
+VPS_CREDENTIALS.md
+DEPLOYMENT_*.md
+
+#Ignore vscode AI rules
+.github/instructions/codacy.instructions.md

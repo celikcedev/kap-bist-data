@@ -1,0 +1,307 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+// ============================================================================
+// TAXONOMY TABLES (Static Data)
+// ============================================================================
+
+model Index {
+  id        Int      @id @default(autoincrement())
+  name      String   @unique
+  code      String   @unique
+  details   String?  @db.Text
+  metadata  String?  @db.Text  // JSON field for storing temporary data (e.g., company codes)
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  companies CompanyIndex[]
+
+  @@map("indices")
+}
+
+model MainSector {
+  id        Int      @id @default(autoincrement())
+  name      String   @unique
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  subSectors SubSector[]
+  companies  Company[]
+
+  @@map("main_sectors")
+}
+
+model SubSector {
+  id            Int      @id @default(autoincrement())
+  name          String
+  mainSectorId  Int
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+
+  mainSector MainSector @relation(fields: [mainSectorId], references: [id], onDelete: Cascade)
+  companies  Company[]
+
+  @@unique([name, mainSectorId])
+  @@map("sub_sectors")
+}
+
+model Market {
+  id        Int      @id @default(autoincrement())
+  name      String   @unique
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  companies CompanyMarket[]
+
+  @@map("markets")
+}
+
+// ============================================================================
+// COMPANY TABLE (Main Entity)
+// ============================================================================
+
+model Company {
+  id                   Int       @id @default(autoincrement())
+  code                 String    @unique
+  name                 String
+  detailUrl            String?   @db.Text
+  
+  // Foreign Keys (One-to-One relationships)
+  mainSectorId         Int?
+  subSectorId          Int?
+  
+  // Contact Information
+  headquartersAddress  String?   @db.Text
+  communicationAddress String?   @db.Text
+  communicationPhone   String?
+  communicationFax     String?
+  productionFacilities String[]  // Array of addresses
+  email                String?
+  website              String?
+  
+  // Business Information
+  businessScope        String?   @db.Text
+  companyDuration      String?
+  auditor              String?
+  
+  // Registration & Tax
+  registryOffice       String?
+  registrationDate     DateTime?
+  registrationNumber   String?
+  taxNumber            String?
+  taxOffice            String?
+  
+  // Capital
+  paidInCapital        Decimal?  @db.Decimal(20, 2)
+  authorizedCapital    Decimal?  @db.Decimal(20, 2)
+  
+  // Free Float (inline - trading performansı için)
+  freeFloatTicker      String?   @db.VarChar(16)     // Borsa Kodu (örn: "ASELS")
+  freeFloatAmountTL    Decimal?  @db.Decimal(20, 2)  // Fiili Dolaşımdaki Pay Tutarı(TL)
+  freeFloatPercent     Decimal?  @db.Decimal(5, 2)   // Fiili Dolaşımdaki Pay Oranı(%)
+  
+  // Trading Status (Sermayeyi Temsil Eden Paylara İlişkin Bilgi)
+  isTradable           Boolean?  // KAP'ta "Borsada İşlem Görüp Görmediği" = "İşlem Görüyor" ise true
+  
+  // Metadata
+  createdAt            DateTime  @default(now())
+  updatedAt            DateTime  @updatedAt
+  lastScrapedAt        DateTime?
+
+  // Relations
+  mainSector           MainSector?         @relation(fields: [mainSectorId], references: [id])
+  subSector            SubSector?          @relation(fields: [subSectorId], references: [id])
+  indices              CompanyIndex[]
+  markets              CompanyMarket[]
+  irStaff              IRStaff[]
+  boardMembers         BoardMember[]
+  executives           Executive[]
+  shareholders         Shareholder[]
+  subsidiaries         Subsidiary[]
+  financialStatements  FinancialStatement[]
+
+  @@index([isTradable])
+  @@index([freeFloatTicker])
+  @@map("companies")
+}
+
+// ============================================================================
+// JUNCTION TABLES (Many-to-Many Relationships)
+// ============================================================================
+
+model CompanyIndex {
+  companyId Int
+  indexId   Int
+  createdAt DateTime @default(now())
+
+  company Company @relation(fields: [companyId], references: [id], onDelete: Cascade)
+  index   Index   @relation(fields: [indexId], references: [id], onDelete: Cascade)
+
+  @@id([companyId, indexId])
+  @@map("company_indices")
+}
+
+model CompanyMarket {
+  companyId Int
+  marketId  Int
+  createdAt DateTime @default(now())
+
+  company Company @relation(fields: [companyId], references: [id], onDelete: Cascade)
+  market  Market  @relation(fields: [marketId], references: [id], onDelete: Cascade)
+
+  @@id([companyId, marketId])
+  @@map("company_markets")
+}
+
+// ============================================================================
+// RELATED TABLES (Company Details)
+// ============================================================================
+
+model IRStaff {
+  id             Int       @id @default(autoincrement())
+  companyId      Int
+  fullName       String
+  title          String?
+  assignmentDate DateTime?
+  phone          String?
+  email          String?
+  licenses       Json?     // Array of {type, number}
+  createdAt      DateTime  @default(now())
+
+  company Company @relation(fields: [companyId], references: [id], onDelete: Cascade)
+
+  @@map("ir_staff")
+}
+
+model BoardMember {
+  id                          Int       @id @default(autoincrement())
+  companyId                   Int
+  fullName                    String
+  actingForLegalEntity        String?
+  gender                      String?
+  title                       String?
+  profession                  String?
+  firstElectionDate           DateTime?
+  isExecutive                 Boolean?
+  rolesLast5Years             String?   @db.Text
+  externalRoles               String?   @db.Text
+  has5yFinExp                 Boolean?
+  sharePercent                Decimal?  @db.Decimal(8, 4)
+  representedShareGroup       String?
+  isIndependent               Boolean?
+  independenceDisclosure      String?
+  evaluatedByNomCommittee     Boolean?
+  lostIndependence            Boolean?
+  committees                  String?   @db.Text
+  createdAt                   DateTime  @default(now())
+
+  company Company @relation(fields: [companyId], references: [id], onDelete: Cascade)
+
+  @@map("board_members")
+}
+
+model Executive {
+  id              Int      @id @default(autoincrement())
+  companyId       Int
+  fullName        String
+  title           String?
+  profession      String?
+  rolesLast5Years String?  @db.Text
+  externalRoles   String?  @db.Text
+  createdAt       DateTime @default(now())
+
+  company Company @relation(fields: [companyId], references: [id], onDelete: Cascade)
+
+  @@map("executives")
+}
+
+model Shareholder {
+  id              Int      @id @default(autoincrement())
+  companyId       Int
+  name            String
+  shareAmountTL   Decimal? @db.Decimal(20, 2)
+  sharePercent    Decimal? @db.Decimal(8, 4)
+  votingPercent   Decimal? @db.Decimal(8, 4)
+  createdAt       DateTime @default(now())
+
+  company Company @relation(fields: [companyId], references: [id], onDelete: Cascade)
+
+  @@map("shareholders")
+}
+
+model Subsidiary {
+  id                  Int      @id @default(autoincrement())
+  companyId           Int
+  tradeName           String
+  activity            String?  @db.Text
+  paidInCapital       Decimal? @db.Decimal(20, 2)
+  companyShareAmount  Decimal? @db.Decimal(20, 2)
+  currency            String?
+  sharePercent        Decimal? @db.Decimal(8, 4)
+  relationType        String?
+  createdAt           DateTime @default(now())
+
+  company Company @relation(fields: [companyId], references: [id], onDelete: Cascade)
+
+  @@map("subsidiaries")
+}
+
+// ============================================================================
+// FINANCIAL STATEMENTS (isyatirimhisse API)
+// ============================================================================
+
+enum StatementType {
+  BALANCE_SHEET_ASSETS      // Bilanço - Aktif (1xxx)
+  BALANCE_SHEET_LIABILITIES // Bilanço - Pasif (2xxx)
+  INCOME_STATEMENT          // Gelir Tablosu (3xxx)
+  CASH_FLOW                 // Nakit Akış (4xxx)
+}
+
+model FinancialStatement {
+  id            Int           @id @default(autoincrement())
+  companyId     Int
+  year          Int           // 2024
+  quarter       Int           // 1, 2, 3, 4 (Q1-Q4)
+  itemCode      String        @db.VarChar(32)   // "1A", "2OA", "3C", "4CA"
+  itemNameTR    String        @db.VarChar(256)  // "Dönen Varlıklar"
+  itemNameEN    String?       @db.VarChar(256)  // "CURRENT ASSETS"
+  value         Decimal?      @db.Decimal(20, 2) // TL cinsinden (nullable)
+  statementType StatementType // Enum: BALANCE_SHEET_ASSETS, etc.
+  financialGroup String       @db.VarChar(16)   // "XI_29" | "UFRS" | "UFRS_K"
+  currency      String        @default("TRY") @db.VarChar(8)
+  
+  company       Company       @relation(fields: [companyId], references: [id], onDelete: Cascade)
+  
+  createdAt     DateTime      @default(now())
+  updatedAt     DateTime      @updatedAt
+  
+  @@unique([companyId, year, quarter, itemCode])
+  @@index([companyId, year, quarter])
+  @@index([companyId, itemCode])
+  @@index([statementType, year, quarter])
+  @@map("financial_statements")
+}
+
+// ============================================================================
+// COMPANY FINANCIAL GROUP MAPPING
+// ============================================================================
+
+model CompanyFinancialGroup {
+  id             Int      @id @default(autoincrement())
+  ticker         String   @unique @db.VarChar(16)  // Company ticker (e.g., "AGESA")
+  financialGroup String   @db.VarChar(32)          // API value (e.g., "UFRS_K", "XI_29", "UFRS_A")
+  displayName    String?  @db.VarChar(128)         // Display text (e.g., "Konsolide UFRS")
+  
+  createdAt      DateTime @default(now())
+  updatedAt      DateTime @updatedAt
+  
+  @@index([ticker])
+  @@map("company_financial_groups")
+}
+
