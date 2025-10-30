@@ -16,10 +16,10 @@ module.exports = {
       time: true
     },
     {
-      name: 'bist-financial-scraper',
+      name: 'bist-financial-quarter',
       script: 'bash',
       args: '-c "source .venv/bin/activate && python scripts/financial_scraper_v2.py"',
-      cron_restart: '0 4 * * *', // 04:00 her gün (Python financial scraper)
+      cron_restart: '0 4 1-20 2,5,8,11 *', // Çeyrek aylar (Şub, May, Ağu, Kas): 1-20 arası her gün 04:00
       autorestart: false,
       max_memory_restart: '1000M',
       env: {
@@ -27,6 +27,20 @@ module.exports = {
       },
       error_file: './logs/pm2-financial-error.log',
       out_file: './logs/pm2-financial-out.log',
+      time: true
+    },
+    {
+      name: 'bist-financial-normal',
+      script: 'bash',
+      args: '-c "source .venv/bin/activate && python scripts/financial_scraper_v2.py"',
+      cron_restart: '0 4 * 1,3,4,6,7,9,10,12 3,6', // Normal aylar: Çarşamba (3) + Cumartesi (6) 04:00
+      autorestart: false,
+      max_memory_restart: '1000M',
+      env: {
+        PYTHONUNBUFFERED: '1'
+      },
+      error_file: './logs/pm2-financial-normal-error.log',
+      out_file: './logs/pm2-financial-normal-out.log',
       time: true
     },
     {

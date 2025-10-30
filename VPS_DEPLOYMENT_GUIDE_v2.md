@@ -618,6 +618,107 @@ Check:
 
 ---
 
+### **STEP 9: Production Optimizations (CRITICAL)**
+
+#### 9.1 Setup PM2 Log Rotation
+```bash
+cd ~/kap-bist-data
+./scripts/setup_pm2_logrotate.sh
+```
+
+**What it does:**
+- Prevents log files from filling disk
+- Rotates logs when they reach 10MB
+- Keeps last 7 rotated files (compressed)
+- Checks every 30 seconds
+
+**Verify:**
+```bash
+pm2 conf pm2-logrotate
+# Should show: max_size=10M, retain=7, compress=true
+```
+
+#### 9.2 Setup PostgreSQL Automatic Backup
+```bash
+cd ~/kap-bist-data
+./scripts/setup_postgres_backup.sh
+```
+
+**What it does:**
+- Creates daily backups at 02:00 AM
+- Compresses backups (gzip)
+- Keeps last 30 days
+- Auto-cleans old backups
+
+**Verify:**
+```bash
+crontab -l
+# Should show: 0 2 * * * /home/ademcelik/backups/postgres/backup.sh
+
+# Check backup directory
+ls -lh ~/backups/postgres/
+```
+
+#### 9.3 Setup Grafana + Prometheus Monitoring (Optional)
+```bash
+cd ~/kap-bist-data
+./scripts/setup_grafana_prometheus.sh
+
+# IMPORTANT: After installation, edit postgres password
+sudo nano /etc/default/prometheus-postgres-exporter
+# Replace YOUR_PASSWORD with actual DB password
+
+# Restart postgres_exporter
+sudo systemctl restart prometheus-postgres-exporter
+```
+
+**Access Monitoring:**
+```
+Grafana:    https://YOUR_VPS_IP:3000
+Username:   admin
+Password:   admin (change on first login)
+
+Prometheus: https://YOUR_VPS_IP:9090
+```
+
+**Import Dashboards:**
+1. Login to Grafana (admin/admin)
+2. Dashboard → Import → 9628 (PostgreSQL)
+3. Dashboard → Import → 1860 (Node Exporter)
+
+---
+
+### **STEP 10: Final System Restart**
+
+```bash
+# Save PM2 state
+pm2 save
+
+# Restart VPS (first restart since initial setup)
+sudo reboot
+```
+
+**Wait 2-3 minutes, then verify:**
+```bash
+# Reconnect via SSH
+ssh ademcelik@YOUR_VPS_IP
+
+# Check all services
+sudo systemctl status nginx
+sudo systemctl status postgresql
+sudo systemctl status grafana-server  # if installed
+sudo systemctl status prometheus       # if installed
+
+# Check PM2 auto-start
+pm2 list
+# Should show all 4 jobs running
+
+# Check PM2 logs
+pm2 logs --lines 20
+```
+
+---
+
 ## 🔧 Troubleshooting
 
 ### **Issue: PM2 cron not running**
